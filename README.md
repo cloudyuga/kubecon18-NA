@@ -98,6 +98,70 @@
 | Panel Discussion: Avoiding the Weeds in the Cloud Native Landscape – Moderated by Priyanka Sharma, GitLab | [Slides]() | [Video]() |
 
 
+## CI/CD
+
+
+| Topic        | Presentation          | Video  |
+| ------------- |:-------------:| -----:|
+| Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware | [Slides]() | [Video]() |
+| Behind Your PR: How Kubernetes Uses Kubernetes to Run Kubernetes CI - Sen Lu & Benjamin Elder, Google | [Slides]() | [Video]() |
+| Kubernetes and The GitOps Face-Off - Ricardo Aravena & Javeria Khan, Branch Metrics | [Slides]() | [Video]() |
+| Migrating Jenkins to Kubernetes Broke Our Brains - Jonathan Hess & Loren Trout, SAP | [Slides]() | [Video]() |
+| Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft | [Slides]() | [Video]() |
+| CI/CD, Kubernetes, and Databases: Better Together - Niraj Tolia & Tom Manville, Kasten| [Slides]() | [Video]() |
+| Building Container Images on Your Kubernetes Cluster with Knative Build - Gareth Rushgrove, Docker | [Slides]() | [Video]() |
+| Automating Enterprise Governance Using the CI/CD Pipeline - Satyam Agarwala, ThoughtWorks & Mark Angrish, ANZ | [Slides]() | [Video]() |
+| CNCF Cross-Cloud CI - Adding Support for New Platforms - Andrew Kutz, VMware | [Slides]() | [Video]() |
+| Using Prow for Testing Outside of K8s - Matt Landis, Amazon Web Services | [Slides]() | [Video]() |
+| Jenkins X: Continuous Delivery for Kubernetes - Carlos Sanchez, CloudBees | [Slides]() | [Video]() |
+| Continuous Delivery on Platforms is Better for Your Brain (and Business!) - Daniel Jones, EngineerBetter Ltd
+  | [Slides]() | [Video]() |
+
+
+## Co-Located Event
+
+| Topic        | Presentation          | Video  |
+| ------------- |:-------------:| -----:|
+| Kubernetes Contributor Summit (Additional registration required) | [Slides]() | [Video]() |
+| Kubernetes Contributor Summit (Additional registration required) | [Slides]() | [Video]() |
+| OpenShift Commons Gathering by Red Hat (Additional registration + fee required) | [Slides]() | [Video]() |
+| Get Hands on with HPE Hybrid Cloud and Container Solutions | [Slides]() | [Video]() |
+| Cloud Native Storage Day | [Slides]() | [Video]() |
+| Deploying Serverless Apps to Kubernetes with Knative by Google Cloud (Additional registration + fee required) Using Istio and GKE On Prem to Manage On-Prem Data Center Downtime and Maintenance (Additional registration + fee required) Getting to Continuous Delivery For Your Cloud-Native Applications (Additional registration + fee required) Kubernetes and Service Mesh Workshop with VMware (Additional registration + fee required) Ballerinacon - Writing Microservices with a Cloud Native Programming Language (Additional registration required) Fast Data (FD.io) Project Mini Summit (Additional registration required) Kubernetes II -- Advanced Hands-on Training (Additional registration + fee required) The Cloud Native Culture & Industry Summit by Oracle (Additional registration required) The GAME CHANGER-- Navigating Container and Kubernetes (Additional registration + fee required) Your Path to Production Ready Kubernetes by Weaveworks (Additional registration + fee required) Cloud Foundry Day (Additional registration + fee required) EnvoyCon (Additional registration + fee required) FoundationDB Summit (Additional registration + fee required) Observability Practitioners Summit (Additional registration + fee required) | [Slides]() | [Video]() |
+| The Cloud Native Enterprise Summit by Google Cloud | [Slides]() | [Video]() |
+| KubeSec Enterprise Summit by Aqua Security | [Slides]() | [Video]() |
+| Tungsten Fabric Developers Summit (additional registration required) | [Slides]() | [Video]() |
+| Get the Cert: Build Your Next App With Kubernetes + Istio | [Slides]() | [Video]() |
+| Kubernetes I – Intro to Kubernetes | [Slides]() | [Video]() |
+| DigitalOcean TIDE: Kubernetes Unconference | [Slides]() | [Video]() |
+| Linkerd in Production 101 by Buoyant | [Slides]() | [Video]() |
+| Kick-off KubeCon with IBM Cloud Garage’s ArcadeCon | [Slides]() | [Video]() |
+| LF Networking Reception | [Slides]() | [Video]() |
+| Kubernetes Operator Framework Workshop | [Slides]() | [Video]() |
+
+
+## Customizing & Extending Kubernetes
+
+| Topic        | Presentation          | Video  |
+| ------------- |:-------------:| -----:|
+| Towards a Vendor Neutral Kubernetes - Andrew Kim, DigitalOcean | [Slides]() | [Video]() |
+| The Future of Your CRDs – Evolving an API - Stefan Schimanski, Red Hat & Mehdy Bohlool, Google | [Slides]() | [Video]() |
+| Using a Managed Kubernetes Service in the Enterprise - Sujit D'Mello & Daniel Selman, Microsoft | [Slides]() | [Video]() |
+| Peloton - A Unified Scheduler for Web-scale Workloads on Mesos & Kubernetes - Min Cai & Nitin Bahadur, Uber | [Slides]() | [Video]() |
+| Building your own PostgreSQL-as-a-Service on Kubernetes. - Alexander Kukushkin, Zalando SE | [Slides]() | [Video]() |
+| Using a Kubernetes Operator to Manage Application Tenancy in a B2B SaaS App - Mike Arpaia, Kolide | [Slides]() | [Video]() |
+| Intro to Agones: Scaling Multiplayer Game Servers with Kubernetes - Mark Mandel, Google | [Slides]() | [Video]() |
+| Custom Controllers to the Rescue: Tailoring API Objects to Your Needs - Stephen Chan & Davi Arnaut, Airbnb | [Slides]() | [Video]() |
+| Defining Mutli-Tenant Access Controls for a Cluster - Anund McKague, Atlassian | [Slides]() | [Video]() |
+| Kubernetes Design Principles: Understand the Why - Saad Ali, Google | [Slides]() | [Video]() |
+| Airflow on Kubernetes: Dynamic Workflows Simplified - Daniel Imberman, Bloomberg & Barni Seetharaman, Google | [Slides]() | [Video]() |
+| Extending Load Balancer Using CRD in Different Kubernetes Cloud Providers - Wei Huang & Srinivas Brahmaroutu, IBM | [Slides]() | [Video]() |
+| A Vision For API Machinery: Coming to Terms with the Platform We Built - Daniel Smith, Google | [Slides]() | [Video]() |
+| Custom Deployment Strategies for Kubernetes - Nail Islamov, Atlassian | [Slides]() | [Video]() |
+| Why Are We Copying and Pasting So Much? - Solly Ross & Philip Wittrock, Google | [Slides]() | [Video]() |
+| Extending Kubernetes or: How I Learned to Stop Worrying and Trust the Spec - David Zhu, Google | [Slides]() | [Video]() |
+| !go, Interacting with and Extending Kubernetes in a Polyglot World - Brendan Burns, Microsoft | [Slides]() | [Video]() |
+| The Life of a Kubernetes Watch Event - Wenjia Zhang & Haowei Cai, Google | [Slides]() | [Video]() |
 
 
 
