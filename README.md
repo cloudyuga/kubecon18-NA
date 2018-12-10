@@ -89,8 +89,7 @@
 | Evolving Legacy Systems into Kubernetes at Lyft: A Hybrid Environment - Lita Cho & Jose Nino, Lyft | [Slides]() | [Video]() |
 | Automating Research Workflows at BlackRock - Matthew Magaldi & Vaibhav Page, BlackRock | [Slides]() | [Video]() |
 | How Atlassian Built Our Own Kube Clusters and Why You Shouldn’t Do the Same - Nick Young, Atlassian | [Slides]() | [Video]() |
-| Towards Trading on Kubernetes: Operating Multi-Tenant and Secure Clusters - Andrew Kochut & Javier Diaz-Montes, Two Sigma
-  | [Slides]() | [Video]() |
+| Towards Trading on Kubernetes: Operating Multi-Tenant and Secure Clusters - Andrew Kochut & Javier Diaz-Montes, Two Sigma | [Slides]() | [Video]() |
 | How T-Mobile Built and Scaled Kubernetes On-Prem for the 2018 Retail Season - James Webb, T-Mobile |  [Slides]() | [Video]() |
 | Migrating Internet Archive to Kubernetes - Tracey Jaquith & David Van Duzer, Internet Archive | [Slides]() | [Video]() |
 | Machine Learning the Kubernetes Way - Ania Musial & Keith Laban, Bloomberg | [Slides]() | [Video]() | 
