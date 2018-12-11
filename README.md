@@ -164,12 +164,10 @@
 | The Life of a Kubernetes Watch Event - Wenjia Zhang & Haowei Cai, Google | [Slides]() | [Video]() |
 
 
-## Keynote
-
+## Lightning Talk
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-
 | Lightning Talk: Introduction to GitOps Deployment to Kubernetes - Jun Sakata, Ubie, Inc. | [Slides](https://schd.ws/hosted_files/kccna18/0d/Introduction%20to%20GitOps%20Deployment%20to%20Kubernetes%20by%20%40sakajunquality.%2010%20November%202018.pdf) | [Video]() | 
 | Lightning Talk: Overengineering your Chatbot for Fun and Science - Andrew Gao, Capital One | [Slides] | [Video]() |
 | Lightning Talk: CRDs Aren't Just for Add-Ons Anymore - Painting a Picture of the Future - Tim Hockin, Google | [Slides](https://schd.ws/hosted_files/kccna18/6e/CRDs%20Aren%27t%20Just%20for%20Addons.pdf) | [Video]() |
