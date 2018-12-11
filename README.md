@@ -164,6 +164,37 @@
 | The Life of a Kubernetes Watch Event - Wenjia Zhang & Haowei Cai, Google | [Slides]() | [Video]() |
 
 
+## Keynote
+
+
+| Topic        | Presentation          | Video  |
+| ------------- |:-------------:| -----:|
+
+| Lightning Talk: Introduction to GitOps Deployment to Kubernetes - Jun Sakata, Ubie, Inc. | [Slides](https://schd.ws/hosted_files/kccna18/0d/Introduction%20to%20GitOps%20Deployment%20to%20Kubernetes%20by%20%40sakajunquality.%2010%20November%202018.pdf) | [Video]() | 
+| Lightning Talk: Overengineering your Chatbot for Fun and Science - Andrew Gao, Capital One | [Slides] | [Video]() |
+| Lightning Talk: CRDs Aren't Just for Add-Ons Anymore - Painting a Picture of the Future - Tim Hockin, Google | [Slides](https://schd.ws/hosted_files/kccna18/6e/CRDs%20Aren%27t%20Just%20for%20Addons.pdf) | [Video]() |
+| Lightning Talk: Labels in Prometheus Alerts: Think Twice Before Using Them - Elena Morozova, Weaveworks | [Slides](https://schd.ws/hosted_files/kccna18/e7/Labels%20in%20Prometheus%20Alerts_Elena%20Morozova.pdf) | [Video]() |
+| Lightning Talk: Behind The Scenes: Kubernetes Release Notes Tips & Tricks - Mike Arpaia, Kolide | [Slides](https://schd.ws/hosted_files/kccna18/b4/Kubernetes%20Release%20Notes%20Tips%20and%20Tricks.pdf) | [Video]() |
+| Lightning Talk: Monitoring Kubernetes with BPF and Prometheus - Jonathan Perry, Flowtune | [Slides](https://schd.ws/hosted_files/kccna18/61/Monitoring%20Kubernetes%20with%20eBPF%20and%20Prometheus.pdf) | [Video]() |
+| Lightning Talk: Spawning Kubernetes In CI For Integration Tests - Marko Mudrinić, Loodse | [Slides](https://schd.ws/hosted_files/kccna18/e8/Spawning%20Kubernetes%20in%20CI%20for%20Integration%20Tests.pdf) | [Video]() |
+| Lightning Talk: Running Kubernetes in the Federal Government - John Osborne, Red Hat | [Slides] | [Video]() |
+| Lightning Talk: Optimizing Kubernetes Networking at Datadog - Laurent Bernaille, Datadog | [Slides] | [Video]() |
+| Lightning Talk: Connect from Browsers Using gRPC-Web - Stanley Cheung, Google | [Slides](https://schd.ws/hosted_files/kccna18/35/Connect%20From%20Browsers%20using%20gRPC-Web.pdf) | [Video]() |
+| Lightning Talk: How You Too Can Find a Needle in the Haystack - Shreya Sharma, Expedia Inc. | [Slides] | [Video]() |
+| Lightning Talk: The Future of Humans in a World of Automation - Kendall Miller, ReactiveOps | [Slides](https://schd.ws/hosted_files/kccna18/cf/Future%20of%20Humans%20in%20a%20world%20of%20automation.pdf) | [Video]() |
+| Lightning Talk: Cloud TPU? Don’t Mind If I Do - Nathan Murthy, Tesla | [Slides] | [Video]() |
+| Lightning Talk: How Fast Was My Database? - Josh Berkus, Red Hat | [Slides] | [Video]() |
+| Lightning Talk: Kubernetes Community, A Story Told by Emojis and Slack Data - Paris Pittman, Google | [Slides] | [Video]() |
+| Lightning Talk: CoreDNS Over gRPC: Reliable Service Discovery for Kubernetes - Yong Tang, MobileIron, Inc. | [Slides](https://schd.ws/hosted_files/kccna18/a4/KubeCon%20-%20CoreDNS%20over%20gRPC.pdf) | [Video]() |
+| Lightning Talk: PID Autoscaling Strava's Linkerd Service Mesh Using Prometheus Data - J Evans, Strava | [Slides](https://schd.ws/hosted_files/kccna18/0e/evans-kcna18.pdf) | [Video]() |
+| Lightning Talk: Kubegres: Accessing K8s From Postgres - Liz Frost, Heptio | [Slides](https://schd.ws/hosted_files/kccna18/6d/You%20got%20Database%20%20in%20my%20Cloud%20%28short%20version%29.pdf) | [Video]() |
+
+
+| | [Slides]() | [Video]() |
+| | [Slides]() | [Video]() |
+| | [Slides]() | [Video]() |
+
+
 
  
 
