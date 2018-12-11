@@ -190,11 +190,6 @@
 | Lightning Talk: Kubegres: Accessing K8s From Postgres - Liz Frost, Heptio | [Slides](https://schd.ws/hosted_files/kccna18/6d/You%20got%20Database%20%20in%20my%20Cloud%20%28short%20version%29.pdf) | [Video]() |
 
 
-| | [Slides]() | [Video]() |
-| | [Slides]() | [Video]() |
-| | [Slides]() | [Video]() |
-
-
 
  
 
