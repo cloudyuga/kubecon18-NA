@@ -248,7 +248,6 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-
 | Connecting Kubernetes Clusters Across Cloud Providers - Thomas Graf, Covalent | [Slides](https://schd.ws/hosted_files/kccna18/68/Connecting%20Multiple%20Kubernetes%20Clusters%20Across%20Cloud%20Providers.pdf) | [Video]() |
 | Understanding CoreDNS in Kubernetes - John Belamaric, Google; Cricket Liu & Francois Tur, Infoblox | [Slides](https://schd.ws/hosted_files/kccna18/b9/KubeCon-Seattle-2018%20-%20Understanding%20%20CoreDNS%20in%20Kubernetes.pdf) | [Video]() | 
 | Implementing Least Privilege Security and Networking with BPF on Kubernetes - Arvind Soni, Covalent | [Slides](https://schd.ws/hosted_files/kccna18/fd/KubeconNA_2018.pdf) | [Video]() |
