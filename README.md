@@ -1,4 +1,5 @@
 |Topic|Video|Presentation|
+| -------- | -------- | -------- |
 |Lightning Talk: Overengineering your Chatbot for Fun and Science - Andrew Gao, Capital One| [video](https://youtube.com/watch?v=L4qxuz6bCrk)|Slides|
 |Lightning Talk: CRDs Aren't Just for Add-Ons Anymore - Painting a Picture of the Future - Tim Hockin| [video](https://youtube.com/watch?v=ji0FWzFwNhA)|Slides|
 |Lightning Talk: Labels in Prometheus Alerts: Think Twice Before Using Them - Elena Morozova| [video](https://youtube.com/watch?v=F7zNv6qhYO4)|Slides|
