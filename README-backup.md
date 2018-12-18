@@ -4,32 +4,33 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Keynote: Opening Remarks & CNCF Community Updates – Liz Rice, Technology Evangelist, Aqua Security | [Slides]() | [Video]() |
-| Keynote: Helm Update - Michelle Noorali, Senior Software Engineer, Microsoft | [Slides]() | [Video]() |
-| Keynote: Envoy Update – Matt Klein, Senior Software Engineer, Constance Caramanolis, Software Engineer, & Jose Nino, Software Engineer, Lyft | | |
-| Keynote: 5 Years of etcd: Past, Present, and Future - Brandon Philips, CTO CoreOS, Red Hat & Xiang Li, Senior Staff Software Engineer, Alibaba | [Slides]() | [Video]() |
-| Keynote: Kubernetes, Istio, Knative: The New Open Cloud Stack - Aparna Sinha, Group Product Manager for Kubernetes, Google |[Slides]() | [Video]() |
-| Keynote: Charting a Path to Take Kubernetes to 100,000 Enterprises - Wendy Cartee, Senior Director of Cloud Native Advocacy, VMware | [Slides]() | [Video]() |
-| Keynote: Phippy Goes to the Zoo: A Kubernetes Story - Matt Butcher, Principal Software Engineer & Karen Chu, Community Manager, Microsoft | [Slides]() | [Video]() |
-| Keynote: Closing Remarks – Janet Kuo, Software Engineer, Google | [Slides]() | [Video]() |
-| Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security  | [Slides]() | [Video]() |
-| Keynote: Tales from the Kube: Contributions by the Community - Brian Grant, Principal Engineer & Tim Hockin, Principal Software Engineer, Google & Clayton Coleman, Architect, Kubernetes and OpenShift, Red Hat | [Slides]() | [Video]() |
-| Keynote: CNCF Maintainer + Ambassador Awards – Chris Aniszczyk, CTO/COO, Cloud Native Computing Foundation & Vladimir Vivien, Software Engineer, VMware | [Slides]() | [Video]() |
-| Keynote: The Emerging Multicloud World – Lew Tucker, VP/CTO Cloud Computing, Cisco | [Slides]() | [Video]() |
-| Keynote: High Reliability Infrastructure Migrations - Julia Evans, Software Engineer, Stripe | [Slides]() | [Video]() |
-| Keynote: Open Source & Containers on AWS - Arun Gupta, Principal Technologist, Amazon Web Services | [Slides]() | [Video]() |
-| Keynote: Closing Remarks – Liz Rice, Technology Evangelist, Aqua Security | [Slides]() | [Video]() |
-| Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security | [Slides]() | [Video]() |
-| Keynote: Kubernetes Project Update - Janet Kuo, Software Engineer, Google | [Slides]() | [Video]() |
-| Keynote: The Unification of Containers, Apps and Functions - Jason McGee, IBM Fellow, VP and CTO, IBM Cloud Platform, IBM | [Slides]() | [Video]() |
-| Keynote: Save Yourselves! - Liz Rice, Technology Evangelist, Aqua Security | [Slides]() | [Video]() |
-| Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb | [Slides]() | [Video]() |
-| Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google | [Slides]() | [Video]() |
-| Keynote: Smooth Operator♪: Large Scale Automated Storage with Kubernetes - Celina Ward, Software Engineer & Matt Schallert, Site Reliability Engineer, Uber | [Slides]() | [Video]() |
-| Keynote: Kubernetes: Living Up to the Hype - Janet Kuo, Software Engineer, Google | [Slides]() | [Video]() |
-| Keynote: Maturing Kubernetes Operators - Rob Szumski, Principal Product Manager for OpenShift, Red Hat | [Slides]() | [Video]() |
-| Keynote: Kubernetes and the Path to Serverless - Kelsey Hightower, Staff Developer Advocate, Google | [Slides]() | [Video]() |
-| Keynote: Closing Remarks - Liz Rice, Technology Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google |  [Slides]() | [Video]() |
+|Keynote: Helm Update - Michelle Noorali, Senior Software Engineer, Microsoft| [video](https://youtube.com/watch?v=UFVaSc2gFnI)|Slides|
+|Keynote: Opening Remarks + CNCF Community Updates – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=Xc6qbNF651k)|Slides|
+|Keynote: Envoy Update – Matt Klein, Senior Software Engineer, Constance Caramanolis| [video](https://youtube.com/watch?v=Vm3UMYMABsE)|Slides|
+|Keynote: 5 Years of etcd: Past, Present, and Future - Brandon Philips & Xiang Li| [video](https://youtube.com/watch?v=jnfgqUzubKk)|Slides|
+|Keynote: Kubernetes, Istio, Knative: The New Open Cloud Stack - Aparna Sinha| [video](https://youtube.com/watch?v=OxJEUCmkixs)|Slides|
+|Keynote: Charting a Path to Take Kubernetes to 100,000 Enterprises - Wendy Cartee| [video](https://youtube.com/watch?v=vMc_yqFt2i0)|Slides|
+|Keynote: Phippy Goes to the Zoo: A Kubernetes Story - Matt Butcher & Karen Chu| [video](https://youtube.com/watch?v=O1pv70lPlNc)|Slides|
+|Keynote: CNCF Maintainer + Ambassador Awards – Chris Aniszczyk & Vladimir Vivien| [video](https://youtube.com/watch?v=sSBwxrbVJ6Y)|Slides|
+|Keynote: The Emerging Multicloud World – Lew Tucker, VP/CTO Cloud Computing, Cisco| [video](https://youtube.com/watch?v=aI-N_w2xcbI)|Slides|
+|Keynote: High Reliability Infrastructure Migrations - Julia Evans, Software Engineer, Stripe| [video](https://youtube.com/watch?v=obB2IvCv-K0)|Slides|
+|Keynote: Open Source & Containers on AWS - Arun Gupta, Principal Technologist, Amazon Web Services| [video](https://youtube.com/watch?v=OwGaqD-XeVQ)|Slides|
+|Keynote: Closing Remarks – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=H_h98pxsmfc)|Slides|
+|Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=gCA3pQvx1YU)|Slides|
+|Keynote: Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=McDzaTnUVWs)|Slides|
+|Keynote: Closing Remarks – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=Df4vqoSXVGM)|Slides|
+|Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb| [video](https://youtube.com/watch?v=ytu3aUCwlSg)|Slides|
+|Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=YGdFKVH1-GM)|Slides|
+|Keynote: Smooth Operator♪: Large Scale Automated Storage with... - Celina Ward & Matt Schallert| [video](https://youtube.com/watch?v=aDFm5KaTaOk)|Slides|
+|Keynote: Maturing Kubernetes Operators - Rob Szumski| [video](https://youtube.com/watch?v=kld1Fi8RrRQ)|Slides|
+|Keynote: Kubernetes and the Path to Serverless - Kelsey Hightower, Staff Developer Advocate, Google| [video](https://youtube.com/watch?v=oNa3xK2GFKY)|Slides|
+|Keynote: Closing Remarks - Liz Rice & Janet Kuo| [video](https://youtube.com/watch?v=vuqPDMWIIMw)|Slides|
+|Keynote: Kubernetes: Living Up to the Hype - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=RnXNjXcHYLM)|Slides|
+|Keynote: Tales from the Kube: Contributions by the... - Brian Grant & Tim Hockin & Clayton Coleman| [video](https://youtube.com/watch?v=vv1qh1n9q7M)|Slides|
+|Clusters All the Way Down: Crazy Multi-cluster Topologies - Matt Caulfield, Cisco| [video](https://youtube.com/watch?v=-gPnYTI70FE)|Slides|
+|Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=hdz26fVdXQ8)|Slides|
+|Keynote: Kubernetes Project Update - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=LAO7RuWwfzA)|Slides|
+|Keynote: The Unification of Containers, Apps and Functions - Jason McGee| [video](https://youtube.com/watch?v=VhO8zgo1ZzQ)|Slides|
 
 
 ## Application and Development
@@ -78,24 +79,21 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Cloud Jumping with Kubernetes - James Bowes, Manifold | [Slides]() | [Video]() |
-| Container Platforms as Equalizers: Running Health Services Across the World - Jamie Hewland, Praekelt.org | [Slides]() | [Video]() |
-| Cloud Native Transformation - Pavel Nikolov & Matt Hope, Fairfax Media | [Slides]() | [Video]() |
-| The Evolution of the AppDirect Kubernetes Network Infrastructure - Pierre Lacerte, & Alex Gervais, AppDirect | [Slides]() | [Video]() |
-| Kubernetes at Reddit: An Origin Story - Greg Taylor, Reddit, Inc | [Slides]() | [Video]() |
-| CI/CD in Light Speed with K8s and Argo cd - Billy Yuen & Parin Shah, Intuit | [Slides]() | [Video]() |
-| Abstracting Heavy Lifting: How K8s Speeds Up Multi-Cloud Solution Delivery - Rob Zuber, CircleCI | [Slides]() | [Video]() |
-| Our Journey to Service 5 Million Messaging Connections on Kubernetes - Dylan O'Mahony, Bose & Dave Doyle, Connected | [Slides]() | [Video]() |
-| Evolving Legacy Systems into Kubernetes at Lyft: A Hybrid Environment - Lita Cho & Jose Nino, Lyft | [Slides]() | [Video]() |
-| Automating Research Workflows at BlackRock - Matthew Magaldi & Vaibhav Page, BlackRock | [Slides]() | [Video]() |
-| How Atlassian Built Our Own Kube Clusters and Why You Shouldn’t Do the Same - Nick Young, Atlassian | [Slides]() | [Video]() |
-| Towards Trading on Kubernetes: Operating Multi-Tenant and Secure Clusters - Andrew Kochut & Javier Diaz-Montes, Two Sigma | [Slides]() | [Video]() |
-| How T-Mobile Built and Scaled Kubernetes On-Prem for the 2018 Retail Season - James Webb, T-Mobile |  [Slides]() | [Video]() |
-| Migrating Internet Archive to Kubernetes - Tracey Jaquith & David Van Duzer, Internet Archive | [Slides]() | [Video]() |
-| Machine Learning the Kubernetes Way - Ania Musial & Keith Laban, Bloomberg | [Slides]() | [Video]() | 
-| Monolith to Microservice: Pitchforks Not Included - Jason Plum, GitLab | [Slides]() | [Video]() |
-| HomeAway's Multi-Cloud Traffic Director - Mark Tyrrell & Andrew Hodges, HomeAway | [Slides]() | [Video]() |
-| Panel Discussion: Avoiding the Weeds in the Cloud Native Landscape – Moderated by Priyanka Sharma, GitLab | [Slides]() | [Video]() |
+| Cloud Jumping with Kubernetes - James Bowes, Manifold | [Slides]() | [Video](https://youtube.com/watch?v=s5vVHK6qpxE) |
+| Container Platforms as Equalizers: Running Health Services Across the World - Jamie Hewland, Praekelt.org | Slides | [Video](https://youtube.com/watch?v=h9BbPkwxmik) |
+| Cloud Native Transformation - Pavel Nikolov & Matt Hope, Fairfax Media | Slides | [Video](https://youtube.com/watch?v=wX53IASZKmk) |
+| Kubernetes at Reddit: An Origin Story - Greg Taylor, Reddit, Inc | Slides | [video](https://youtube.com/watch?v=z7TIzCAEo0M)|
+| CI/CD in Light Speed with K8s and Argo cd - Billy Yuen & Parin Shah, Intuit | Slides | [Video](https://youtube.com/watch?v=OdzH82VpMwI) |
+| Abstracting Heavy Lifting: How K8s Speeds Up Multi-Cloud Solution Delivery - Rob Zuber, CircleCI | Slides | [video](https://youtube.com/watch?v=5DmnrrGrAPQ)|
+| Evolving Legacy Systems into Kubernetes at Lyft: A Hybrid Environment - Lita Cho & Jose Nino, Lyft | Slides | [video](https://youtube.com/watch?v=xQxIoy50Mzo)|
+| Automating Research Workflows at BlackRock - Matthew Magaldi & Vaibhav Page, BlackRock | Slides | [video](https://youtube.com/watch?v=ZK510prml8o)|
+| How Atlassian Built Our Own Kube Clusters and Why You Shouldn’t Do the Same - Nick Young, Atlassian | Slides | [video](https://youtube.com/watch?v=Ol_NYLQP5ec) |
+| How T-Mobile Built and Scaled Kubernetes On-Prem for the 2018 Retail Season - James Webb, T-Mobile | Slides | [video](https://youtube.com/watch?v=1qcTu2QUtrU) |
+| Migrating Internet Archive to Kubernetes - Tracey Jaquith & David Van Duzer, Internet Archive | Slides |[video](https://youtube.com/watch?v=rzgKDdFTEmQ) |
+| Machine Learning the Kubernetes Way - Ania Musial & Keith Laban, Bloomberg | Slides | [video](https://youtube.com/watch?v=ncED2EMcxZ8)|
+| Monolith to Microservice: Pitchforks Not Included - Jason Plum, GitLab | Slides | [video](https://youtube.com/watch?v=rIUth_KrJdw)|
+|HomeAway's Multi-Cloud Traffic Director - Mark Tyrrell & Andrew Hodges, HomeAway| Slides |[video](https://youtube.com/watch?v=q_mwPTGKA4s)|
+| Panel Discussion: Avoiding the Weeds in the Cloud Native Landscape – Moderated by Priyanka Sharma| Slides | [video](https://youtube.com/watch?v=N1kX6r2wlAE) |
 
 
 ## CI/CD
@@ -103,41 +101,20 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware | [Slides]() | [Video]() |
-| Behind Your PR: How Kubernetes Uses Kubernetes to Run Kubernetes CI - Sen Lu & Benjamin Elder, Google | [Slides]() | [Video]() |
-| Kubernetes and The GitOps Face-Off - Ricardo Aravena & Javeria Khan, Branch Metrics | [Slides]() | [Video]() |
-| Migrating Jenkins to Kubernetes Broke Our Brains - Jonathan Hess & Loren Trout, SAP | [Slides]() | [Video]() |
-| Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft | [Slides]() | [Video]() |
-| CI/CD, Kubernetes, and Databases: Better Together - Niraj Tolia & Tom Manville, Kasten| [Slides]() | [Video]() |
-| Building Container Images on Your Kubernetes Cluster with Knative Build - Gareth Rushgrove, Docker | [Slides]() | [Video]() |
-| Automating Enterprise Governance Using the CI/CD Pipeline - Satyam Agarwala, ThoughtWorks & Mark Angrish, ANZ | [Slides]() | [Video]() |
-| CNCF Cross-Cloud CI - Adding Support for New Platforms - Andrew Kutz, VMware | [Slides]() | [Video]() |
-| Using Prow for Testing Outside of K8s - Matt Landis, Amazon Web Services | [Slides]() | [Video]() |
-| Jenkins X: Continuous Delivery for Kubernetes - Carlos Sanchez, CloudBees | [Slides]() | [Video]() |
+|Birds of a Feather: What Should a Container Build Manifest Look Like? - Nisha Kumar, VMware| Slides | [video](https://youtube.com/watch?v=WY3s_cG9ia8)|
+|Kubernetes and The GitOps Face-Off - Ricardo Aravena & Javeria Khan, Branch Metrics| Slides | [video](https://youtube.com/watch?v=9qGqx_jdxQg)|
+|Migrating Jenkins to Kubernetes Broke Our Brains - Jonathan Hess & Loren Trout, SAP| Slides | [video](https://youtube.com/watch?v=2w8dbJCTNaA)|
+| Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft | Slides | [Video](https://youtube.com/watch?v=ahMIBxufNR0) |
+| CI/CD, Kubernetes, and Databases: Better Together - Niraj Tolia & Tom Manville, Kasten| [Slides]() | [Video](https://youtube.com/watch?v=WyRzBt65_zQ) |
+| Building Container Images on Your Kubernetes Cluster with Knative Build - Gareth Rushgrove, Docker | Slides | [Video](https://youtube.com/watch?v=KDWvN8q2FEU) |
+| Automating Enterprise Governance Using the CI/CD Pipeline - Satyam Agarwala, ThoughtWorks & Mark Angrish, ANZ | Slides | [Video](https://youtube.com/watch?v=OGAWi9PlDrA) |
+| CNCF Cross-Cloud CI - Adding Support for New Platforms - Andrew Kutz, VMware | Slides | [Video](https://youtube.com/watch?v=4_7QUBUvgmk) |
+| Using Prow for Testing Outside of K8s - Matt Landis, Amazon Web Services | Slides | [Video](https://youtube.com/watch?v=DBrkSC6nS8A) |
+| Jenkins X: Continuous Delivery for Kubernetes - Carlos Sanchez, CloudBees | Slides | [Video](https://youtube.com/watch?v=IDEa8seAzVc) |
 | Continuous Delivery on Platforms is Better for Your Brain (and Business!) - Daniel Jones, EngineerBetter Ltd
-  | [Slides]() | [Video]() |
+  | Slides | [Video](https://youtube.com/watch?v=TBrusQSxZWw) |
 
 
-## Co-Located Event
-
-| Topic        | Presentation          | Video  |
-| ------------- |:-------------:| -----:|
-| Kubernetes Contributor Summit (Additional registration required) | [Slides]() | [Video]() |
-| Kubernetes Contributor Summit (Additional registration required) | [Slides]() | [Video]() |
-| OpenShift Commons Gathering by Red Hat (Additional registration + fee required) | [Slides]() | [Video]() |
-| Get Hands on with HPE Hybrid Cloud and Container Solutions | [Slides]() | [Video]() |
-| Cloud Native Storage Day | [Slides]() | [Video]() |
-| Deploying Serverless Apps to Kubernetes with Knative by Google Cloud (Additional registration + fee required) Using Istio and GKE On Prem to Manage On-Prem Data Center Downtime and Maintenance (Additional registration + fee required) Getting to Continuous Delivery For Your Cloud-Native Applications (Additional registration + fee required) Kubernetes and Service Mesh Workshop with VMware (Additional registration + fee required) Ballerinacon - Writing Microservices with a Cloud Native Programming Language (Additional registration required) Fast Data (FD.io) Project Mini Summit (Additional registration required) Kubernetes II -- Advanced Hands-on Training (Additional registration + fee required) The Cloud Native Culture & Industry Summit by Oracle (Additional registration required) The GAME CHANGER-- Navigating Container and Kubernetes (Additional registration + fee required) Your Path to Production Ready Kubernetes by Weaveworks (Additional registration + fee required) Cloud Foundry Day (Additional registration + fee required) EnvoyCon (Additional registration + fee required) FoundationDB Summit (Additional registration + fee required) Observability Practitioners Summit (Additional registration + fee required) | [Slides]() | [Video]() |
-| The Cloud Native Enterprise Summit by Google Cloud | [Slides]() | [Video]() |
-| KubeSec Enterprise Summit by Aqua Security | [Slides]() | [Video]() |
-| Tungsten Fabric Developers Summit (additional registration required) | [Slides]() | [Video]() |
-| Get the Cert: Build Your Next App With Kubernetes + Istio | [Slides]() | [Video]() |
-| Kubernetes I – Intro to Kubernetes | [Slides]() | [Video]() |
-| DigitalOcean TIDE: Kubernetes Unconference | [Slides]() | [Video]() |
-| Linkerd in Production 101 by Buoyant | [Slides]() | [Video]() |
-| Kick-off KubeCon with IBM Cloud Garage’s ArcadeCon | [Slides]() | [Video]() |
-| LF Networking Reception | [Slides]() | [Video]() |
-| Kubernetes Operator Framework Workshop | [Slides]() | [Video]() |
 
 
 ## Customizing & Extending Kubernetes
