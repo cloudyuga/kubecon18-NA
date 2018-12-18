@@ -26,6 +26,8 @@
 
 
 ## Keynote
+| Topic | Video | Presentation |
+|:-------:|:--------:|:-----------:|
 |Keynote: Helm Update - Michelle Noorali, Senior Software Engineer, Microsoft| [video](https://youtube.com/watch?v=UFVaSc2gFnI)|Slides|
 |Keynote: Opening Remarks + CNCF Community Updates – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=Xc6qbNF651k)|Slides|
 |Keynote: Envoy Update – Matt Klein, Senior Software Engineer, Constance Caramanolis| [video](https://youtube.com/watch?v=Vm3UMYMABsE)|Slides|
