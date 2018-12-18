@@ -1,5 +1,11 @@
-|Topic|Video|Presentation|
-| -------- | -------- | -------- |
+
+# kubecon18-NA
+
+## Lightning Talk
+
+
+| Topic | Video | Presentation |
+|:-------:|:--------:|:-----------:|
 |Lightning Talk: Overengineering your Chatbot for Fun and Science - Andrew Gao, Capital One| [video](https://youtube.com/watch?v=L4qxuz6bCrk)|Slides|
 |Lightning Talk: CRDs Aren't Just for Add-Ons Anymore - Painting a Picture of the Future - Tim Hockin| [video](https://youtube.com/watch?v=ji0FWzFwNhA)|Slides|
 |Lightning Talk: Labels in Prometheus Alerts: Think Twice Before Using Them - Elena Morozova| [video](https://youtube.com/watch?v=F7zNv6qhYO4)|Slides|
@@ -17,6 +23,9 @@
 |Lightning Talk: CoreDNS Over gRPC: Reliable Service Discovery for Kubernetes - Yong Tang| [video](https://youtube.com/watch?v=xd6T2ZEy6y4)|Slides|
 |Lightning Talk: PID Autoscaling Strava's Linkerd Service Mesh Using Prometheus Data - J Evans| [video](https://youtube.com/watch?v=sOku2TMZC3k)|Slides|
 |Lightning Talk: Kubegres: Accessing K8s From Postgres - Liz Frost, Heptio| [video](https://youtube.com/watch?v=csM8LpedO3E)|Slides|
+
+
+## Keynote
 |Keynote: Helm Update - Michelle Noorali, Senior Software Engineer, Microsoft| [video](https://youtube.com/watch?v=UFVaSc2gFnI)|Slides|
 |Keynote: Opening Remarks + CNCF Community Updates – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=Xc6qbNF651k)|Slides|
 |Keynote: Envoy Update – Matt Klein, Senior Software Engineer, Constance Caramanolis| [video](https://youtube.com/watch?v=Vm3UMYMABsE)|Slides|
