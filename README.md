@@ -23,7 +23,7 @@
 |Lightning Talk: CoreDNS Over gRPC: Reliable Service Discovery for Kubernetes - Yong Tang| [video](https://youtube.com/watch?v=xd6T2ZEy6y4)|Slides|
 |Lightning Talk: PID Autoscaling Strava's Linkerd Service Mesh Using Prometheus Data - J Evans| [video](https://youtube.com/watch?v=sOku2TMZC3k)|Slides|
 |Lightning Talk: Kubegres: Accessing K8s From Postgres - Liz Frost, Heptio| [video](https://youtube.com/watch?v=csM8LpedO3E)|Slides|
-
+|Lightning Talk: Introduction to GitOps Deployment to Kubernetes - Jun Sakata, Ubie, Inc.| [video](https://youtube.com/watch?v=RbMX_PKew5U)|Slides|
 
 ## Keynote
 | Topic | Video | Presentation |
@@ -40,6 +40,23 @@
 |Keynote: High Reliability Infrastructure Migrations - Julia Evans, Software Engineer, Stripe| [video](https://youtube.com/watch?v=obB2IvCv-K0)|Slides|
 |Keynote: Open Source & Containers on AWS - Arun Gupta, Principal Technologist, Amazon Web Services| [video](https://youtube.com/watch?v=OwGaqD-XeVQ)|Slides|
 |Keynote: Closing Remarks – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=H_h98pxsmfc)|Slides|
+|Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=gCA3pQvx1YU)|Slides|
+|Keynote: Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=McDzaTnUVWs)|Slides|
+|Keynote: Closing Remarks – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=Df4vqoSXVGM)|Slides|
+|Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb| [video](https://youtube.com/watch?v=ytu3aUCwlSg)|Slides|
+|Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=YGdFKVH1-GM)|Slides|
+|Keynote: Smooth Operator♪: Large Scale Automated Storage with... - Celina Ward & Matt Schallert| [video](https://youtube.com/watch?v=aDFm5KaTaOk)|Slides|
+|Keynote: Maturing Kubernetes Operators - Rob Szumski| [video](https://youtube.com/watch?v=kld1Fi8RrRQ)|Slides|
+|Keynote: Kubernetes and the Path to Serverless - Kelsey Hightower, Staff Developer Advocate, Google| [video](https://youtube.com/watch?v=oNa3xK2GFKY)|Slides|
+|Keynote: Closing Remarks - Liz Rice & Janet Kuo| [video](https://youtube.com/watch?v=vuqPDMWIIMw)|Slides|
+|Keynote: Kubernetes: Living Up to the Hype - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=RnXNjXcHYLM)|Slides|
+|Keynote: Tales from the Kube: Contributions by the... - Brian Grant & Tim Hockin & Clayton Coleman| [video](https://youtube.com/watch?v=vv1qh1n9q7M)|Slides|
+|Clusters All the Way Down: Crazy Multi-cluster Topologies - Matt Caulfield, Cisco| [video](https://youtube.com/watch?v=-gPnYTI70FE)|Slides|
+|Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=hdz26fVdXQ8)|Slides|
+|Keynote: Kubernetes Project Update - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=LAO7RuWwfzA)|Slides|
+|Keynote: The Unification of Containers, Apps and Functions - Jason McGee| [video](https://youtube.com/watch?v=VhO8zgo1ZzQ)|Slides|
+
+
 |Intro: Helm - Matt Farina, Samsung SDS| [video](https://youtube.com/watch?v=0xJc3d43kn0)|Slides|
 |Three Pillars, Zero Answers: We Need to Rethink Observability - Ben Sigelman, LightStep| [video](https://youtube.com/watch?v=EJV_CgiqlOE)|Slides|
 |Intro: Network Service Mesh BoF - Ed Warnick, Cisco & Frederick F. Kautz IV, Red Hat| [video](https://youtube.com/watch?v=YeAKtUFaqQ0)|Slides|
@@ -67,8 +84,8 @@
 |Deep Dive: KubeVirt BoF - Scott Collier, Red Hat & Ben Warren, Cisco| [video](https://youtube.com/watch?v=yHfGEMHdDRA)|Slides|
 |[Deleted video]| [video](https://youtube.com/watch?v=g97hLQX6pAc)|Slides|
 |Intro: CNCF Trail Map - Dee Kumar, Cloud Native Computing Foundation| [video](https://youtube.com/watch?v=quLe8KA1-8k)|Slides|
-|Lightning Talk: Introduction to GitOps Deployment to Kubernetes - Jun Sakata, Ubie, Inc.| [video](https://youtube.com/watch?v=RbMX_PKew5U)|Slides|
-|Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=gCA3pQvx1YU)|Slides|
+
+
 |Intro: Virtual Kubelet - Ria Bhatia, Microsoft & Ben Corrie, VMware| [video](https://youtube.com/watch?v=WKceJJTmzng)|Slides|
 |A Basic Kubernetes Debugging Kit: curl, jq, openssl, and Other Best Friends - Joe Thompson| [video](https://youtube.com/watch?v=QtXHkzLtqZE)|Slides|
 |Intro: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Cathy Zhang, Huawei| [video](https://youtube.com/watch?v=iNlqLr9vlD4)|Slides|
@@ -123,20 +140,14 @@
 |Getting The Most Out Of Kubernetes with Resource Limits and Load Testing - Harrison Harnisch, Buffer| [video](https://youtube.com/watch?v=NuLFomXGUj4)|Slides|
 |Intro: KubeVirt BoF - Daniel Gonzalez Nothnagel, SAP & Scott Collier, Red Hat| [video](https://youtube.com/watch?v=vQW373WWGTw)|Slides|
 |On the OSS Path to Full Observability with Grafana - David Kaltschmidt, Grafana Labs| [video](https://youtube.com/watch?v=tpJRG_ijKe0)|Slides|
-|Keynote: Tales from the Kube: Contributions by the... - Brian Grant & Tim Hockin & Clayton Coleman| [video](https://youtube.com/watch?v=vv1qh1n9q7M)|Slides|
-|Clusters All the Way Down: Crazy Multi-cluster Topologies - Matt Caulfield, Cisco| [video](https://youtube.com/watch?v=-gPnYTI70FE)|Slides|
-|Keynote: Welcome Remarks - Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=hdz26fVdXQ8)|Slides|
-|Keynote: Kubernetes Project Update - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=LAO7RuWwfzA)|Slides|
-|Keynote: The Unification of Containers, Apps and Functions - Jason McGee| [video](https://youtube.com/watch?v=VhO8zgo1ZzQ)|Slides|
+
 |Using Kubernetes to Offer Scalable Deep Learning on Alibaba Cloud - Kai Zhang & Yang Che, Alibaba| [video](https://youtube.com/watch?v=XMYuz_dM0jY)|Slides|
 |Real-time Vision Processing on Kubernetes: Working with Data Locality - Yisui Hu, Google| [video](https://youtube.com/watch?v=pFuHTmNsJ6s)|Slides|
 |Front-end Application Deployment Patterns - Ross Kukulinski, Heptio| [video](https://youtube.com/watch?v=Iih80xqpHcM)|Slides|
 |Tutorial: Using Istio - Lee Calcote & Girish Ranganathan, SolarWinds| [video](https://youtube.com/watch?v=jlHLZqS7Vek)|Slides|
 |Tutorial: Developing Production Ready Cloud Native NATS - Waldemar Quevedo & Colin Sullivan| [video](https://youtube.com/watch?v=RyNwHG6bU6g)|Slides|
 |Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google| [video](https://youtube.com/watch?v=NpT9RraqKdY)|Slides|
-|Keynote: Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=McDzaTnUVWs)|Slides|
-|Keynote: Closing Remarks – Liz Rice, Technology Evangelist, Aqua Security| [video](https://youtube.com/watch?v=Df4vqoSXVGM)|Slides|
-|Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb| [video](https://youtube.com/watch?v=ytu3aUCwlSg)|Slides|
+
 |Using a Kubernetes Operator to Manage Application Tenancy in a B2B SaaS App - Mike Arpaia, Kolide| [video](https://youtube.com/watch?v=3IdEB-t4YC0)|Slides|
 |The Cloud Native Meetup Community A-Z - Moderated by Kaslin Fields, Oracle| [video](https://youtube.com/watch?v=j70XXe16ZN0)|Slides|
 |Tutorial: KataContainers the Hard Way: Kubernetes + containerd... - Lei Zhang & Xu Wang| [video](https://youtube.com/watch?v=E_yts67c-po)|Slides|
@@ -225,12 +236,7 @@
 |CNCF Cross-Cloud CI - Adding Support for New Platforms - Andrew Kutz, VMware| [video](https://youtube.com/watch?v=4_7QUBUvgmk)|Slides|
 |Using Prow for Testing Outside of K8s - Matt Landis, Amazon Web Services| [video](https://youtube.com/watch?v=DBrkSC6nS8A)|Slides|
 |Jenkins X: Continuous Delivery for Kubernetes - Carlos Sanchez, CloudBees| [video](https://youtube.com/watch?v=IDEa8seAzVc)|Slides|
-|Keynote: Welcome Remarks - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=YGdFKVH1-GM)|Slides|
-|Keynote: Smooth Operator♪: Large Scale Automated Storage with... - Celina Ward & Matt Schallert| [video](https://youtube.com/watch?v=aDFm5KaTaOk)|Slides|
-|Keynote: Maturing Kubernetes Operators - Rob Szumski| [video](https://youtube.com/watch?v=kld1Fi8RrRQ)|Slides|
-|Keynote: Kubernetes and the Path to Serverless - Kelsey Hightower, Staff Developer Advocate, Google| [video](https://youtube.com/watch?v=oNa3xK2GFKY)|Slides|
-|Keynote: Closing Remarks - Liz Rice & Janet Kuo| [video](https://youtube.com/watch?v=vuqPDMWIIMw)|Slides|
-|Keynote: Kubernetes: Living Up to the Hype - Janet Kuo, Software Engineer, Google| [video](https://youtube.com/watch?v=RnXNjXcHYLM)|Slides|
+
 |Deep Dive: CNI - Bryan Boreham, Weaveworks & Dan Williams, Red Hat| [video](https://youtube.com/watch?v=VCrTDqfxuJM)|Slides|
 |Deep Dive: Azure SIG – Khaled (Kal) Henidak , Microsoft & Stephen Augustus, Red Hat| [video](https://youtube.com/watch?v=GebQpMcHdlg)|Slides|
 |Deep Dive: Open Policy Agent - Torin Sandall, Styra| [video](https://youtube.com/watch?v=Vdy26oA3py8)|Slides|
