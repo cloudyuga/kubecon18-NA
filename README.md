@@ -131,7 +131,7 @@
 | Open Source, Open Community and Open Development - Craig McLuckie, Heptio | [Slides] | [Video](https://youtube.com/watch?v=aEMzsbPMsYI) |
 | Eco-Friendly ML: How the Kubeflow Ecosystem Bootstrapped Itself - Peter MacKinnon, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/d7/Eco-Friendly%20ML.pdf) | [Video](https://youtube.com/watch?v=EVSfp8HGJXY) |
 | Birds of a Feather: How to Train Your KubeAdmins - Stephany Spencer, USA TODAY NETWORK | [Slides] | [Video](https://youtube.com/watch?v=C0c6YQCgjIo) |
-| Noobernetes 101: Top 10 Questions We Get From New K8s Users - Karthik Gaekwad, Oracle & Neependra Khare, CloudYuga | [Slides] | [Video](https://youtube.com/watch?v=Y7enbKBBDhA) |
+| Noobernetes 101: Top 10 Questions We Get From New K8s Users - Karthik Gaekwad, Oracle & Neependra Khare, CloudYuga | [Slides](https://schd.ws/hosted_files/kccna18/3c/Noobernetes101.pdf) | [Video](https://youtube.com/watch?v=Y7enbKBBDhA) |
   
 
 ## Customizing & Extending Kubernetes
