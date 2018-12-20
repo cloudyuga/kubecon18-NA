@@ -138,24 +138,24 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Towards a Vendor Neutral Kubernetes - Andrew Kim, DigitalOcean | [Slides]() | [Video](https://youtube.com/watch?v=vaDtA17qHcI) |
-| The Future of Your CRDs – Evolving an API - Stefan Schimanski, Red Hat & Mehdy Bohlool, Google | [Slides]() | [Video](https://youtube.com/watch?v=HsYtMvvzDyI) |
-| Using a Managed Kubernetes Service in the Enterprise - Sujit D'Mello & Daniel Selman, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=IvoId7gLnfU) |
-| Peloton - A Unified Scheduler for Web-scale Workloads on Mesos & Kubernetes - Min Cai & Nitin Bahadur, Uber | [Slides]() | [Video](https://www.youtube.com/watch?v=USgbj87Ztlk) |
-| Building your own PostgreSQL-as-a-Service on Kubernetes. - Alexander Kukushkin, Zalando SE | [Slides]() | [Video](https://youtube.com/watch?v=G8MnpkbhClc) |
-| Using a Kubernetes Operator to Manage Application Tenancy in a B2B SaaS App - Mike Arpaia, Kolide | [Slides]() | [Video](https://youtube.com/watch?v=3IdEB-t4YC0) |
-| Intro to Agones: Scaling Multiplayer Game Servers with Kubernetes - Mark Mandel, Google | [Slides]() | [Video](https://youtube.com/watch?v=Q4RZSHTeKCY) |
-| Custom Controllers to the Rescue: Tailoring API Objects to Your Needs - Stephen Chan & Davi Arnaut, Airbnb | [Slides]() | [Video](https://www.youtube.com/watch?v=ZUuuEjbaqVs) |
-| Defining Mutli-Tenant Access Controls for a Cluster - Anund McKague, Atlassian | [Slides]() | [Video](https://youtube.com/watch?v=LAkLY_LQ02o) |
-| Kubernetes Design Principles: Understand the Why - Saad Ali, Google | [Slides]() | [Video](https://youtube.com/watch?v=ZuIQurh_kDk) |
-| Airflow on Kubernetes: Dynamic Workflows Simplified - Daniel Imberman, Bloomberg & Barni Seetharaman, Google | [Slides]() | [Video](https://youtube.com/watch?v=VrsVbuo4ENE) |
-| Extending Load Balancer Using CRD in Different Kubernetes Cloud Providers - Wei Huang & Srinivas Brahmaroutu, IBM | [Slides]() | [Video](https://www.youtube.com/watch?v=YmRem5IWaEc) |
-| A Vision For API Machinery: Coming to Terms with the Platform We Built - Daniel Smith, Google | [Slides]() | [Video](https://youtube.com/watch?v=u6weI_3WVTM) |
-| Custom Deployment Strategies for Kubernetes - Nail Islamov, Atlassian | [Slides]() | [Video](https://youtube.com/watch?v=nh-yy3BWbjg) |
-| Why Are We Copying and Pasting So Much? - Solly Ross & Philip Wittrock, Google | [Slides]() | [Video](https://youtube.com/watch?v=0tX3q_WAEdE) |
-| Extending Kubernetes or: How I Learned to Stop Worrying and Trust the Spec - David Zhu, Google | [Slides]() | [Video](https://youtube.com/watch?v=75Ojpy6l5es) |
-| !go, Interacting with and Extending Kubernetes in a Polyglot World - Brendan Burns, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=PyKeFmWSECM) |
-| The Life of a Kubernetes Watch Event - Wenjia Zhang & Haowei Cai, Google | [Slides]() | [Video](https://www.youtube.com/watch?v=PLSDvFjR9HY) |
+| Towards a Vendor Neutral Kubernetes - Andrew Kim, DigitalOcean | [Slides](https://schd.ws/hosted_files/kccna18/de/Towards%20a%20Vendor%20Neutral%20Kubernetes.pdf) | [Video](https://youtube.com/watch?v=vaDtA17qHcI) |
+| The Future of Your CRDs – Evolving an API - Stefan Schimanski, Red Hat & Mehdy Bohlool, Google | [Slides](https://schd.ws/hosted_files/kccna18/ca/The%20Future%20of%20your%20CRDs_%20Evolving%20an%20API.pdf) | [Video](https://youtube.com/watch?v=HsYtMvvzDyI) |
+| Using a Managed Kubernetes Service in the Enterprise - Sujit D'Mello & Daniel Selman, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/cb/mk8s_kubecon_finaldraft.pptx) | [Video](https://youtube.com/watch?v=IvoId7gLnfU) |
+| Peloton - A Unified Scheduler for Web-scale Workloads on Mesos & Kubernetes - Min Cai & Nitin Bahadur, Uber | [Slides](https://schd.ws/hosted_files/kccna18/29/Peloton_%20KubeCon%202018.pdf) | [Video](https://www.youtube.com/watch?v=USgbj87Ztlk) |
+| Building your own PostgreSQL-as-a-Service on Kubernetes. - Alexander Kukushkin, Zalando SE | [Slides](https://schd.ws/hosted_files/kccna18/1d/Building%20your%20own%20PostgreSQL-as-a-Service%20on%20Kubernetes.pdf) | [Video](https://youtube.com/watch?v=G8MnpkbhClc) |
+| Using a Kubernetes Operator to Manage Application Tenancy in a B2B SaaS App - Mike Arpaia, Kolide | [Slides](https://schd.ws/hosted_files/kccna18/bc/Using%20a%20Kubernetes%20Operator%20to%20Manage%20Application%20Tenancy%20in%20a%20B2B%20SaaS%20App.pdf) | [Video](https://youtube.com/watch?v=3IdEB-t4YC0) |
+| Intro to Agones: Scaling Multiplayer Game Servers with Kubernetes - Mark Mandel, Google | [Slides](https://schd.ws/hosted_files/kccna18/7c/%5BKubecon%5D%20-%20Agones_%20Scaling%20Multiplayer%20Dedicated%20Game%20Servers%20with%20Kubernetes.pdf) | [Video](https://youtube.com/watch?v=Q4RZSHTeKCY) |
+| Custom Controllers to the Rescue: Tailoring API Objects to Your Needs - Stephen Chan & Davi Arnaut, Airbnb | [Slides] | [Video](https://www.youtube.com/watch?v=ZUuuEjbaqVs) |
+| Defining Mutli-Tenant Access Controls for a Cluster - Anund McKague, Atlassian | [Slides](https://schd.ws/hosted_files/kccna18/51/Kubecon%20-%20Multitenant%20Access%20-%20Anund%20Mckague.pdf) | [Video](https://youtube.com/watch?v=LAkLY_LQ02o) |
+| Kubernetes Design Principles: Understand the Why - Saad Ali, Google | [Slides] | [Video](https://youtube.com/watch?v=ZuIQurh_kDk) |
+| Airflow on Kubernetes: Dynamic Workflows Simplified - Daniel Imberman, Bloomberg & Barni Seetharaman, Google | [Slides](https://schd.ws/hosted_files/kccna18/a8/Airflow%20Kubecon%20Talk%20Final.pdf) | [Video](https://youtube.com/watch?v=VrsVbuo4ENE) |
+| Extending Load Balancer Using CRD in Different Kubernetes Cloud Providers - Wei Huang & Srinivas Brahmaroutu, IBM | [Slides](https://schd.ws/hosted_files/kccna18/cc/Extending%20Kubernetes%20LoadBalancer%20Using%20CRDs.pdf) | [Video](https://www.youtube.com/watch?v=YmRem5IWaEc) |
+| A Vision For API Machinery: Coming to Terms with the Platform We Built - Daniel Smith, Google | [Slides](https://schd.ws/hosted_files/kccna18/31/vision-final.pdf) | [Video](https://youtube.com/watch?v=u6weI_3WVTM) |
+| Custom Deployment Strategies for Kubernetes - Nail Islamov, Atlassian | [Slides](https://schd.ws/hosted_files/kccna18/c4/KubeCon2018_CanaryDeployments.pdf) | [Video](https://youtube.com/watch?v=nh-yy3BWbjg) |
+| Why Are We Copying and Pasting So Much? - Solly Ross & Philip Wittrock, Google | [Slides](https://schd.ws/hosted_files/kccna18/42/KubeCon%20NA%202018%20--%20Why%20Are%20We%20Copying%20and%20Pasting%20So%20Much_.pdf) | [Video](https://youtube.com/watch?v=0tX3q_WAEdE) |
+| Extending Kubernetes or: How I Learned to Stop Worrying and Trust the Spec - David Zhu, Google | [Slides](https://schd.ws/hosted_files/kccna18/e5/Seattle%20Kubecon%202018%20Talk.pdf) | [Video](https://youtube.com/watch?v=75Ojpy6l5es) |
+| !go, Interacting with and Extending Kubernetes in a Polyglot World - Brendan Burns, Microsoft | [Slides] | [Video](https://youtube.com/watch?v=PyKeFmWSECM) |
+| The Life of a Kubernetes Watch Event - Wenjia Zhang & Haowei Cai, Google | [Slides](https://schd.ws/hosted_files/kccna18/63/KubeCon%20NA%20%2718_%20Life%20of%20a%20Kubernetes%20Watch%20Event.pdf) | [Video](https://www.youtube.com/watch?v=PLSDvFjR9HY) |
 
 
 ## Lightning Talk
@@ -206,100 +206,100 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Intro: Apps SIG - Adnan Abdulhussein, Bitnami | [Slides] | [Video] (https://youtube.com/watch?v=AqSEd3H2y4o)
-| Intro: Auth SIG - Jordan Liggitt & Tim Allclair, Google | [Slides] | [Video] (https://youtube.com/watch?v=kHglGZSoCtM)|
-| Intro: CNCF Trail Map - Dee Kumar, Cloud Native Computing Foundation | [Slides] | [Video] (https://youtube.com/watch?v=quLe8KA1-8k) |
-| Intro: IBMCloud SIG - Sahdev Zala & Richard Theis, IBM | [Slides]() | [Video](https://youtube.com/watch?v=YGmLPxoawJ4) |
-| Intro: VMware SIG - Fabio Rapposelli & Steve Wong, VMware | [Slides]() | [Video](https://youtube.com/watch?v=2E8AMB533ek) |
-| Intro: Cluster Lifecycle SIG – Robert Bailey, Google & Timothy St. Clair, Heptio | [Slides]() | [Video](https://youtube.com/watch?v=vtBc0f1ACbM) |
-| Intro: Harbor - Steven Zou & Henry Zhang, VMware | [Slides]() | [Video](https://www.youtube.com/watch?v=RZQVBWwGa2s&index=7&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON) |
+| Intro: Apps SIG - Adnan Abdulhussein, Bitnami | [Slides](https://schd.ws/hosted_files/kccna18/15/SIG%20Apps%20Intro%20KubeCon%20NA%202018.pdf) | [Video](https://youtube.com/watch?v=AqSEd3H2y4o) |
+| Intro: Auth SIG - Jordan Liggitt & Tim Allclair, Google | [Slides](https://schd.ws/hosted_files/kccna18/2a/Kubecon%202018%20SIG-Auth%20Intro.pdf) | [Video](https://youtube.com/watch?v=kHglGZSoCtM) |
+| Intro: CNCF Trail Map - Dee Kumar, Cloud Native Computing Foundation | [Slides] | [Video](https://youtube.com/watch?v=quLe8KA1-8k) |
+| Intro: IBMCloud SIG - Sahdev Zala & Richard Theis, IBM | [Slides](https://schd.ws/hosted_files/kccna18/99/IBMCloudSIG-KubeConSeattle18-Sahdev-Richard-Intro.pdf) | [Video](https://youtube.com/watch?v=YGmLPxoawJ4) |
+| Intro: VMware SIG - Fabio Rapposelli & Steve Wong, VMware | [Slides](https://schd.ws/hosted_files/kccna18/ef/vmware-sig-intro-KubeCon_2018_Seattle_v2.pdf) | [Video](https://youtube.com/watch?v=2E8AMB533ek) |
+| Intro: Cluster Lifecycle SIG – Robert Bailey, Google & Timothy St. Clair, Heptio | [Slides](https://schd.ws/hosted_files/kccna18/6e/KubeCon_2018_NA-SIG-Cluster-Lifecycle-Intro.pdf) | [Video](https://youtube.com/watch?v=vtBc0f1ACbM) |
+| Intro: Harbor - Steven Zou & Henry Zhang, VMware | [Slides](https://schd.ws/hosted_files/kccna18/cc/harbor101_uploaded.pptx) | [Video](https://www.youtube.com/watch?v=RZQVBWwGa2s&index=7&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON) |
 | Intro: Service Catalog SIG - Jonathan Berkhahn, IBM & Carolyn Van Slyck, Microsoft Azure | [Slides]() | [Video](https://youtube.com/watch?v=bm59dpmMhAk) | 
 | Intro: Storage SIG - Saad Ali, Google Intro: Virtual Kubelet - Ria Bhatia, Microsoft & Ben Corrie, VMware | [Slides]() | [Video](https://www.youtube.com/watch?v=vtBc0f1ACbM&index=3&list=PLUjBjSNePA-GaY15VqgZQLUZmVF1MsEvv) |
-| Intro: Envoy - Matt Klein & Constance Caramanolis, Lyft | [Slides]() | [Video](https://www.youtube.com/watch?v=P719qI2h2yY)| 
-| Intro: Kubernetes SIG Multicluster - Daneyon Hansen, Cisco, Quinton Hoole & Irfan Ur Rehman, Huawei | [Slides]() | [Video](https://youtube.com/watch?v=srYrTAMoEdw) | 
-| Intro: Release SIG - Tim Pepper, VMware & Aishwarya Sundar, Google | [Slides]() | [Video](https://youtube.com/watch?v=OwH8E6EreYM) |
-| Intro: Telepresence - Rafael Schloming, Datawire & Adnan Abdulhussein, Bitnami | [Slides]() | [Video](https://youtube.com/watch?v=k9lh4ZuKsiQ) |
-| Intro: TUF/Notary - Justin Cappos, NYU & Justin Cormack, Docker | [Slides]() | [Video](https://youtube.com/watch?v=76S7ZAwM0h4) |
-| Deep Dive: Envoy - Matt Klein & Constance Caramanolis, Lyft | [Slides]() | [Video](https://youtube.com/watch?v=eQMTf1G7x8U) |
-| Intro: Cloud Native Buildpacks – Terence Lee & Joe Kutner, Salesforce Heroku | [Slides]() | [Video](https://youtube.com/watch?v=t3C2nW0WTRo) | 
-| Intro: CNCF Cross-Cloud CI - Denver Williams, Debian & Taylor Carpenter, Vulk Coop | [Slides]() | [Video](https://youtube.com/watch?v=XVmq7ek_1tg) |
-| Intro: Contributor Experience SIG - Paris Pittman, Google & Elsie Phillips, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=27vEfoXv0bE) |
-| Intro: OpenStack SIG - Chris Hoge, OpenStack Foundation & David Lyle, Intel | [Slides]() | [Video](https://youtube.com/watch?v=ywUyCzD9SaQ) |
-| Intro: containerd - Mike Brown, IBM & Derek McGowan, Docker | [Slides]() | [Video](https://youtube.com/watch?v=_xOxDZIjZCo) |
-| Intro: CoreDNS - Yong Tang, MobileIron, Inc & Cricket Liu, Infoblox | [Slides]() | [Video](https://youtube.com/watch?v=hopDaALR8uQ) |
-| Intro: Falco - Loris Degioanni, Sysdig | [Slides]() | [Video](https://youtube.com/watch?v=zgRFN3o7nJE) |
-| Intro: Fluentd - Eduardo Silva & Masahiro Nakagawa, Treasure Data | [Slides]() | [Video](https://youtube.com/watch?v=6Lfrh3pw1rM) |
-| Intro: Vitess - Dan Kozlowski & Sugu Sougoumarane, PlanetScale | [Slides]() | [Video](https://youtube.com/watch?v=XeG-XTvymeY) |
-| Intro: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Clemens Vasters, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=iNlqLr9vlD4) |
-| Intro: Helm - Matt Farina, Samsung SDS | [Slides]() | [Video](https://www.youtube.com/watch?v=0xJc3d43kn0&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON&index=11) |
-| Intro: NATS - Colin Sullivan & Wally Quevedo, Synadia | [Slides]() | [Video](https://youtube.com/watch?v=EI6clwKZ-qs) |
-| Intro: OpenMetrics - Richard (RichiH) Hartmann, SpaceNet AG | [Slides]() | [Video](https://www.youtube.com/watch?v=DARVop91kBQ&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON&index=1) |
-| Intro: Rook - Jared Watts, Upbound | [Slides]() | [Video](https://youtube.com/watch?v=pwVsFHy2EdE) |
-| Deep Dive: CNCF Cross-Cloud CI – Denver Williams, Debian & Taylor Carpenter, Vulk Voop | [Slides]() | [Video](https://youtube.com/watch?v=HfUN8DL28j4) |
-| Deep Dive: gRPC Node - Michael Lumish, Google | [Slides]() | [Video](https://youtube.com/watch?v=dgPkVx10U0Q) |
-| Intro: CLI SIG – Mengqi Yu & Sean Sullivan, Google | [Slides]() | [Video](https://youtube.com/watch?v=cdeQyxKakEk) |
-| Intro: Minikube - Thomas Strömberg & Bálint Pató, Google | [Slides]() | [Video](https://youtube.com/watch?v=2yBOVlonHQw) |
-| Intro: PM (Kubernetes) SIG – Stephen Augustus, Red Hat & Ihor Dvoretskyi, Cloud Native Computing Foundation | [Slides]() | [Video](https://youtube.com/watch?v=sO1i7Hc3UjM) |
-| Intro: SPIFFE - Andrew Jessup & Daniel Feldman, Scytale | [Slides]() | [Video](https://youtube.com/watch?v=sOBla3mJNKM) |
-| Deep Dive: etcd - Xiang Li, Alibaba & Wenjia Zhang, Google | [Slides]() | [Video](https://youtube.com/watch?v=GJqO1TYzVDE) |
-| Deep Dive: kubespray - Antoine Legrand, Red Hat & Chad Swenson, AT&T | [Slides]() | [Video](https://youtube.com/watch?v=j29-RryNbT0) |
-| Intro: Autoscaling SIG - Solly Ross, Google & Michael Hausenblas, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=EQjL7cVyhF0) |
-| Intro: AWS SIG - Nishi Davidson, Amazon Web Services & Justin Santa Barbara, Google | [Slides]() | [Video](https://youtube.com/watch?v=WIPqzsPivwc) |
-| Intro: Azure SIG - Khaled (Kal) Henidak , Microsoft & Stephen Augustus, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=kx_8sFFxH0A) |
-| Intro: Windows SIG - Michael Michael, VMware & Patrick Lang, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=5cdoag34pJk) |
-| Deep Dive: Release SIG - Josh Berkus, Red Hat; Chuck Ha, Heptio; Doug MacEachern, VMware; Caleb Miles, Google | [Slides]() | [Video](https://www.youtube.com/watch?v=RtEfgT6PPSQ) |
-| Intro: Cloud Provider SIG - Chris Hoge, OpenStack & Jago Macleod, Google | [Slides]() | [Video](https://youtube.com/watch?v=849mym5eTog) |
-| Intro: CNCF Storage WG - Alex Chircop, StorageOS & Quinton Hoole, Huawei | [Slides]() | [Video](https://youtube.com/watch?v=JTS0WMBDPaY) |
-| Intro: Linkerd – William Morgan, Buoyant | [Slides]() | [Video](https://www.youtube.com/watch?v=5kktb9rsNts) |
-| Intro: Testing SIG - Aaron Crickenberger, Google & Steve Kuznetsov, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=7-_O41W3FRU) |
-| Deep Dive: Linkerd - Oliver Gould, Buoyant | [Slides]() | [Video](https://www.youtube.com/watch?v=8EtH0ymXpvw) |
-| Deep Dive: Vitess - Dan Kozlowski & Sugu Sougoumarane, PlanetScale | [Slides]() | [Video](https://youtube.com/watch?v=bd1na3mqJ7M) |
-| Intro: gRPC-Web - Stanley Cheung & Wenbo Zhu, Google | [Slides]() | [Video](https://youtube.com/watch?v=RtyKEDZipsM) |
-| Intro: Kubernetes IoT Edge WG – Cindy Xing, Huawei; Dejan Bosanac, Red Hat; Preston Holmes, Google; Steve Wong, VMware | [Slides]() | [Video](https://youtube.com/watch?v=LMXCxf4tu7U) |
-| Intro: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Frederic Branczyk, CoreOS | [Slides]() | [Video](https://youtube.com/watch?v=MUb2WX4RgJI) |
-| Deep Dive: containerd - Derek McGowan, Docker & Phil Estes, IBM Cloud | [Slides]() | [Video](https://youtube.com/watch?v=4f_2u6rIDTk) |
-| Deep Dive: PM (Kubernetes) SIG - Ihor Dvoretskyi, Cloud Native Computing Foundation & Stephen Augustus, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=9rGeJSPtG4A) |
-| Deep Dive: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Frederic Branczyk, CoreOS | [Slides]() | [Video](https://youtube.com/watch?v=EkPkGJvh4Jg) |
-| Deep Dive: Telepresence - Adnan Abdulhussein, Bitnami & Rafael Schloming, Datawire | [Slides]() | [Video](https://youtube.com/watch?v=ezJ0zdMhTEk) |
-| Intro: Open Policy Agent - Torin Sandall, Styra | [Slides]() | [Video](https://youtube.com/watch?v=CDDsjMOtJ-c) |
-| Deep Dive: CNCF Serverless WG / CloudEvents - Clemens Vasters, Microsoft & Cathy Zhang, Huawei | [Slides]() | [Video](https://youtube.com/watch?v=URWei3EXX1g) |
+| Intro: Envoy - Matt Klein & Constance Caramanolis, Lyft | [Slides] | [Video](https://www.youtube.com/watch?v=P719qI2h2yY)| 
+| Intro: Kubernetes SIG Multicluster - Daneyon Hansen, Cisco, Quinton Hoole & Irfan Ur Rehman, Huawei | [Slides](https://schd.ws/hosted_files/kccna18/5c/SIG%20MultiCluster%20at%20Kubecon%20Seattle%202018.pdf) | [Video](https://youtube.com/watch?v=srYrTAMoEdw) | 
+| Intro: Release SIG - Tim Pepper, VMware & Aishwarya Sundar, Google | [Slides](https://schd.ws/hosted_files/kccna18/cd/2018%20KubeCon%20NA%20-%20SIG%20Release%20Intro.pdf) | [Video](https://youtube.com/watch?v=OwH8E6EreYM) |
+| Intro: Telepresence - Rafael Schloming, Datawire & Adnan Abdulhussein, Bitnami | [Slides](https://schd.ws/hosted_files/kccna18/2c/Telepresence%20KubeCon%20NA%202018.pdf) | [Video](https://youtube.com/watch?v=k9lh4ZuKsiQ) |
+| Intro: TUF/Notary - Justin Cappos, NYU & Justin Cormack, Docker | [Slides] | [Video](https://youtube.com/watch?v=76S7ZAwM0h4) |
+| Deep Dive: Envoy - Matt Klein & Constance Caramanolis, Lyft | [Slides] | [Video](https://youtube.com/watch?v=eQMTf1G7x8U) |
+| Intro: Cloud Native Buildpacks – Terence Lee & Joe Kutner, Salesforce Heroku | [Slides] | [Video](https://youtube.com/watch?v=t3C2nW0WTRo) | 
+| Intro: CNCF Cross-Cloud CI - Denver Williams, Debian & Taylor Carpenter, Vulk Coop | [Slides](https://schd.ws/hosted_files/kccna18/2d/KubeCon%20NA%202018%20Cross-cloud%20CI%20Intro%20slides%2012112018.pdf) | [Video](https://youtube.com/watch?v=XVmq7ek_1tg) |
+| Intro: Contributor Experience SIG - Paris Pittman, Google & Elsie Phillips, Red Hat | [Slides] | [Video](https://youtube.com/watch?v=27vEfoXv0bE) |
+| Intro: OpenStack SIG - Chris Hoge, OpenStack Foundation & David Lyle, Intel | [Slides](https://schd.ws/hosted_files/kccna18/f2/SIG-OpenStack%20Update%20December%202018.pdf) | [Video](https://youtube.com/watch?v=ywUyCzD9SaQ) |
+| Intro: containerd - Mike Brown, IBM & Derek McGowan, Docker | [Slides] | [Video](https://youtube.com/watch?v=_xOxDZIjZCo) |
+| Intro: CoreDNS - Yong Tang, MobileIron, Inc & Cricket Liu, Infoblox | [Slides](https://schd.ws/hosted_files/kccna18/a5/KubeCon%20-%20Intro%20CoreDNS.pdf) | [Video](https://youtube.com/watch?v=hopDaALR8uQ) |
+| Intro: Falco - Loris Degioanni, Sysdig | [Slides](https://schd.ws/hosted_files/kccna18/97/fluentd-intro-kubecon-2018-na.pdf) | [Video](https://youtube.com/watch?v=zgRFN3o7nJE) |
+| Intro: Fluentd - Eduardo Silva & Masahiro Nakagawa, Treasure Data | [Slides](https://schd.ws/hosted_files/kccna18/97/fluentd-intro-kubecon-2018-na.pdf) | [Video](https://youtube.com/watch?v=6Lfrh3pw1rM) |
+| Intro: Vitess - Dan Kozlowski & Sugu Sougoumarane, PlanetScale | [Slides](https://schd.ws/hosted_files/kccna18/91/Vitess%40Kubecon2018.pdf) | [Video](https://youtube.com/watch?v=XeG-XTvymeY) |
+| Intro: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Clemens Vasters, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/da/Serverless%20Inro.pdf) | [Video](https://youtube.com/watch?v=iNlqLr9vlD4) |
+| Intro: Helm - Matt Farina, Samsung SDS | [Slides](https://schd.ws/hosted_files/kccna18/b7/Helm%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=0xJc3d43kn0&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON&index=11) |
+| Intro: NATS - Colin Sullivan & Wally Quevedo, Synadia | [Slides](https://schd.ws/hosted_files/kccna18/70/KubeCon_2018_NA_NATS_INTROv1.pdf) | [Video](https://youtube.com/watch?v=EI6clwKZ-qs) |
+| Intro: OpenMetrics - Richard (RichiH) Hartmann, SpaceNet AG | [Slides](https://schd.ws/hosted_files/kccna18/b0/2018-12-11--Intro_to_OpenMetrics.pdf) | [Video](https://www.youtube.com/watch?v=DARVop91kBQ&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON&index=1) |
+| Intro: Rook - Jared Watts, Upbound | [Slides](https://schd.ws/hosted_files/kccna18/9f/Rook%20Project%20Intro%20Kubecon%20Seattle%202018.pdf) | [Video](https://youtube.com/watch?v=pwVsFHy2EdE) |
+| Deep Dive: CNCF Cross-Cloud CI – Denver Williams, Debian & Taylor Carpenter, Vulk Voop | [Slides](https://schd.ws/hosted_files/kccna18/cb/KubeCon%20NA%202018%20Cross-cloud%20CI%20Deep%20Dive%20Slides%2012122018.pdf) | [Video](https://youtube.com/watch?v=HfUN8DL28j4) |
+| Deep Dive: gRPC Node - Michael Lumish, Google | [Slides](https://schd.ws/hosted_files/kccna18/23/gRPC-node%20deep%20dive.pdf) | [Video](https://youtube.com/watch?v=dgPkVx10U0Q) |
+| Intro: CLI SIG – Mengqi Yu & Sean Sullivan, Google | [Slides](https://schd.ws/hosted_files/kccna18/f3/2018-kubecon-sig-cli-intro.pdf) | [Video](https://youtube.com/watch?v=cdeQyxKakEk) |
+| Intro: Minikube - Thomas Strömberg & Bálint Pató, Google | [Slides](https://schd.ws/hosted_files/kccna18/af/minikube%20Intro%20-%20KubeCon%20Seattle%202018.pdf) | [Video](https://youtube.com/watch?v=2yBOVlonHQw) |
+| Intro: PM (Kubernetes) SIG – Stephen Augustus, Red Hat & Ihor Dvoretskyi, Cloud Native Computing Foundation | [Slides] | [Video](https://youtube.com/watch?v=sO1i7Hc3UjM) |
+| Intro: SPIFFE - Andrew Jessup & Daniel Feldman, Scytale | [Slides](https://schd.ws/hosted_files/kccna18/b6/KubeCon%20NA%202018_%20SPIFFE%20Intro.pdf) | [Video](https://youtube.com/watch?v=sOBla3mJNKM) |
+| Deep Dive: etcd - Xiang Li, Alibaba & Wenjia Zhang, Google | [Slides](https://schd.ws/hosted_files/kccna18/08/%5BPUBLIC%5D%20etcd%40Kubecon-2018NA.pdf) | [Video](https://youtube.com/watch?v=GJqO1TYzVDE) |
+| Deep Dive: kubespray - Antoine Legrand, Red Hat & Chad Swenson, AT&T | [Slides](https://schd.ws/hosted_files/kccna18/d1/Deep%20Dive_%20kubespray%20-%20Kubecon%202018.pdf) | [Video](https://youtube.com/watch?v=j29-RryNbT0) |
+| Intro: Autoscaling SIG - Solly Ross, Google & Michael Hausenblas, Red Hat | [Slides] | [Video](https://youtube.com/watch?v=EQjL7cVyhF0) |
+| Intro: AWS SIG - Nishi Davidson, Amazon Web Services & Justin Santa Barbara, Google | [Slides](https://schd.ws/hosted_files/kccna18/9d/KubeCon_2018_NA_SIG-AWS%20Update.pdf) | [Video](https://youtube.com/watch?v=WIPqzsPivwc) |
+| Intro: Azure SIG - Khaled (Kal) Henidak , Microsoft & Stephen Augustus, Red Hat | [Slides] | [Video](https://youtube.com/watch?v=kx_8sFFxH0A) |
+| Intro: Windows SIG - Michael Michael, VMware & Patrick Lang, Microsoft | [Slides] | [Video](https://youtube.com/watch?v=5cdoag34pJk) |
+| Deep Dive: Release SIG - Josh Berkus, Red Hat; Chuck Ha, Heptio; Doug MacEachern, VMware; Caleb Miles, Google | [Slides](https://schd.ws/hosted_files/kccna18/5a/SIG-Release%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=RtEfgT6PPSQ) |
+| Intro: Cloud Provider SIG - Chris Hoge, OpenStack & Jago Macleod, Google | [Slides](https://schd.ws/hosted_files/kccna18/59/KubeCon%20NA%202018%20-%20Intro_%20SIG%20Cloud%20Provider.pdf.download.zip) | [Video](https://youtube.com/watch?v=849mym5eTog) |
+| Intro: CNCF Storage WG - Alex Chircop, StorageOS & Quinton Hoole, Huawei | [Slides] | [Video](https://youtube.com/watch?v=JTS0WMBDPaY) |
+| Intro: Linkerd – William Morgan, Buoyant | [Slides] | [Video](https://www.youtube.com/watch?v=5kktb9rsNts) |
+| Intro: Testing SIG - Aaron Crickenberger, Google & Steve Kuznetsov, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/70/KubeCon%20Seattle%202018%20-%20SIG%20Testing%20Intro%20-%20draft.pdf) | [Video](https://youtube.com/watch?v=7-_O41W3FRU) |
+| Deep Dive: Linkerd - Oliver Gould, Buoyant | [Slides] | [Video](https://www.youtube.com/watch?v=8EtH0ymXpvw) |
+| Deep Dive: Vitess - Dan Kozlowski & Sugu Sougoumarane, PlanetScale | [Slides](https://schd.ws/hosted_files/kccna18/a7/Vitess%20-%20Failure%20is%20Always%20an%20Option%20Kubecon%202018.pptx) | [Video](https://youtube.com/watch?v=bd1na3mqJ7M) |
+| Intro: gRPC-Web - Stanley Cheung & Wenbo Zhu, Google | [Slides](https://schd.ws/hosted_files/kccna18/64/Intro-to-gRPC-Web.pdf) | [Video](https://youtube.com/watch?v=RtyKEDZipsM) |
+| Intro: Kubernetes IoT Edge WG – Cindy Xing, Huawei; Dejan Bosanac, Red Hat; Preston Holmes, Google; Steve Wong, VMware | [Slides](https://schd.ws/hosted_files/kccna18/c2/Intro_%20IoT%20Edge%20Working%20Group.pdf) | [Video](https://youtube.com/watch?v=LMXCxf4tu7U) |
+| Intro: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Frederic Branczyk, CoreOS | [Slides](https://schd.ws/hosted_files/kccna18/c1/2018-12-12-Intro_to_Prometheus.pdf) | [Video](https://youtube.com/watch?v=MUb2WX4RgJI) |
+| Deep Dive: containerd - Derek McGowan, Docker & Phil Estes, IBM Cloud | [Slides] | [Video](https://youtube.com/watch?v=4f_2u6rIDTk) |
+| Deep Dive: PM (Kubernetes) SIG - Ihor Dvoretskyi, Cloud Native Computing Foundation & Stephen Augustus, Red Hat | [Slides] | [Video](https://youtube.com/watch?v=9rGeJSPtG4A) |
+| Deep Dive: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Frederic Branczyk, CoreOS | [Slides](https://schd.ws/hosted_files/kccna18/a5/2018-12-12-Prometheus_Deep_Dive.pdf) | [Video](https://youtube.com/watch?v=EkPkGJvh4Jg) |
+| Deep Dive: Telepresence - Adnan Abdulhussein, Bitnami & Rafael Schloming, Datawire | [Slides] | [Video](https://youtube.com/watch?v=ezJ0zdMhTEk) |
+| Intro: Open Policy Agent - Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccna18/80/OPA%20Intro%20Session%20KubeCon%20US%202018.pdf) | [Video](https://youtube.com/watch?v=CDDsjMOtJ-c) |
+| Deep Dive: CNCF Serverless WG / CloudEvents - Clemens Vasters, Microsoft & Cathy Zhang, Huawei | [Slides](https://schd.ws/hosted_files/kccna18/e6/Serverless%20Deep%20Dive%202018%20North%20America.pdf) | [Video](https://youtube.com/watch?v=URWei3EXX1g) |
 | Deep Dive: CNCF Storage WG - Alex Chircop, StorageOS & Quinton Hoole, Huawei | [Slides]() | [Video](https://youtube.com/watch?v=4giqFkBmLJ0) |
-| Intro: CNCF Kubernetes Conformance WG - Dan Kohn, CNCF & Aaron Crickenberger, Google | [Slides]() | [Video](https://youtube.com/watch?v=8antGWq-wuY) |
-| Intro: Jaeger - Yuri Shkuro, Uber & Pavol Loffay, Red Hat | [Slides]() | [Video](https://www.youtube.com/watch?v=WRntQsUajow&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON&index=33) |
-| Intro: Scheduling SIG – Da Ma, Huawei | [Slides]() | [Video](https://youtube.com/watch?v=VTHrYGqYOYI) |
-| Deep Dive: Auth SIG - Tim Allclair & Jordan Liggitt, Google | [Slides]() | [Video](https://youtube.com/watch?v=ok1MYAEnU1Y) |
-| Deep Dive: Cloud Provider SIG - Chris Hoge, OpenStack Foundation & Jago Macleod, Google |[Slides]() | [Video](https://www.youtube.com/watch?v=iRj5Dtxzw78) |
-| Deep Dive: Jaeger - Pavol Loffay, Red Hat & Yuri Shkuro, Uber | [Slides]() | [Video](https://www.youtube.com/watch?v=i8JttH6DJxo) |
-| Deep Dive: Kubernetes SIG Multicluster - Irfan Ur Rehman, Huawei & Paul Morie, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=Yh2z18nrdlY) |
-| K8s Conformance Working Session: Supporting Multiple Environments - Dan Kohn, CNCF | [Slides]() | [Video](https://youtube.com/watch?v=dueJApGGAo0) |
-| Deep Dive: API Machinery SIG - Stefan Schimanski, Red Hat & Daniel Smith, Google | [Slides]() | [Video](https://youtube.com/watch?v=kz8BMn9_hk8) |
-| Deep Dive: Apps SIG - Matt Farina, Samsung SDS & Adnan Abdulhussein, Bitnami | [Slides]() | [Video](https://youtube.com/watch?v=gJIUUsDP7ko) |
-| Deep Dive: Fluent Bit - Eduardo Silva & Masahiro Nakagawa, Treasure | [Slides]() | [Video](https://youtube.com/watch?v=LEmGkKwpdOM) |
-| Data Deep Dive: Kubernetes Policy WG - Zhipeng Huang, Huawei | [Slides]() | [Video](https://www.youtube.com/watch?v=SsRektcakls) |
-| Deep Dive: Open Policy Agent - Torin Sandall, Styra | [Slides]() | [Video](https://youtube.com/watch?v=Vdy26oA3py8) |
-| Deep Dive: Rook - Travis Nielsen, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=Mb7oiXQb1ZE) |
-| Deep Dive: Cluster Lifecycle SIG (Kubeadm) – Timothy St. Clair & Liz Frost, Heptio | [Slides]() | [Video](https://youtube.com/watch?v=tAA0Hlag2n0) |
-| Deep Dive: CNI - Bryan Boreham, Weaveworks & Dan Williams, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=VCrTDqfxuJM) |
-| Deep Dive: Container Identity WG - Greg Castle & Michael Danese, Google | [Slides]() | [Video](https://youtube.com/watch?v=lEe6kDR_dHg) |
-| Deep Dive: IBMCloud SIG - Sahdev Zala & Richard Theis, IBM | [Slides]() | [Video](https://youtube.com/watch?v=w20Vh-_H_SU) |
-| Deep Dive: Service Catalog SIG - Carolyn Van Slyck, Microsoft Azure & Jonathan Berkhahn, IBM | [Slides]() | [Video](https://youtube.com/watch?v=0zp0y8Mo_BE) |
-| Deep Dive: SPIFFE - Emiliano Bernbaum & Andrew Harding, Scytale | [Slides]() | [Video](https://www.youtube.com/watch?v=89-GvGs8JwU) |
-| Deep Dive: Autoscaling SIG - Solly Ross, Google & Michael Hausenblas, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=xfPMva7h9f0) |
-| Deep Dive: Azure SIG – Khaled (Kal) Henidak , Microsoft & Stephen Augustus, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=GebQpMcHdlg) |
-| Deep Dive: Cloud Native Buildpacks - Terence Lee & Joe Kutner, Salesforce Heroku | [Slides]() | [Video](https://youtube.com/watch?v=KiDK5C0kzJs) |
-| Deep Dive: Cluster Lifecycle SIG (Cluster API) - Robert Bailey, Google & David E. Watson, Samsung | [Slides]() | [Video](https://youtube.com/watch?v=LxENsOKq7UA) |
-| Deep Dive: Kubernetes IoT Edge WG – Cindy Xing, Huawei; Dejan Bosanac, Red Hat; Preston Holmes, Google; Steve Wong, VMware |[Slides]() | [Video](https://www.youtube.com/watch?v=nWFkxuRvZ7U) |
-| Deep Dive: TUF - Justin Cappos, NYU & Trishank Kuppusamy, Datadog | [Slides]() | [Video](https://www.youtube.com/watch?v=XAlvd4QXngs) |
-| Deep Dive: CoreDNS - Michael Grosser, Okkur Labs & John Belamaric, Google | [Slides]() | [Video](https://youtube.com/watch?v=LIoC6aC--jQ) |
-| Deep Dive: Falco - Mark Stemm, Sysdig Deep Dive: Testing SIG - Cole Wagner & Katharine Berry, Google | [Slides]() | [Video](https://youtube.com/watch?v=v9wYiGHwVrg) |
-| Deep Dive: Virtual Kubelet - Jeremy Rickard & Brian Goff, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=cuaWIpUNvNo) |
-| Deep Dive: VMware SIG – Michael Gasch & Steven Wong, VMware | [Slides]() | [Video](https://youtube.com/watch?v=oP2LPhMAy2o) |
-| Deep Dive: Helm - Matt Butcher & Adam Reese, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=V8VCdlpWWr8) |
-| Deep Dive: Big Data SIG - Erik Erlandson, Red Hat & Yinan Li, Google | [Slides]() | [Video](https://youtube.com/watch?v=bQx4JlUO4o8) |
-| Deep Dive: Harbor - Tan Jiang & Jia Zou, VMware | [Slides]() | [Video](https://youtube.com/watch?v=OKj1XxtsTCo) |
-| Deep Dive: Minikube - Bálint Pató & Thomas Strömberg, Google | [Slides]() | [Video](https://youtube.com/watch?v=46-FXiSEfE4) |
-| Deep Dive: NATS - Colin Sullivan & Wally Quevedo, Synadia | [Slides]() | [Video](https://youtube.com/watch?v=wBJj0UbcZuU) |
-| Deep Dive: Scheduling SIG - Bobby (Babak) Salamat, Google | [Slides]() | [Video](https://youtube.com/watch?v=QAcAbKnHjOU) |
+| Intro: CNCF Kubernetes Conformance WG - Dan Kohn, CNCF & Aaron Crickenberger, Google | [Slides] | [Video](https://youtube.com/watch?v=8antGWq-wuY) |
+| Intro: Jaeger - Yuri Shkuro, Uber & Pavol Loffay, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/b1/KCCNCNA18%20Jaeger%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=WRntQsUajow&list=PLXZ34nr1ymuEjks0vnyaQPY_Zf5HFemON&index=33) |
+| Intro: Scheduling SIG – Da Ma, Huawei | [Slides](https://schd.ws/hosted_files/kccna18/a2/sig-scheduling-intro-na.pdf) | [Video](https://youtube.com/watch?v=VTHrYGqYOYI) |
+| Deep Dive: Auth SIG - Tim Allclair & Jordan Liggitt, Google | [Slides](https://schd.ws/hosted_files/kccna18/3f/Kubecon%202018%20SIG-Auth%20Deep%20Dive.pdf) | [Video](https://youtube.com/watch?v=ok1MYAEnU1Y) |
+| Deep Dive: Cloud Provider SIG - Chris Hoge, OpenStack Foundation & Jago Macleod, Google |[Slides](https://schd.ws/hosted_files/kccna18/47/KubeCon%20NA%202019%20-%20Deep%20Dive_%20SIG%20Cloud%20Provider.pdf) | [Video](https://www.youtube.com/watch?v=iRj5Dtxzw78) |
+| Deep Dive: Jaeger - Pavol Loffay, Red Hat & Yuri Shkuro, Uber | [Slides](https://schd.ws/hosted_files/kccna18/d0/KCCNCNA18%20Jaeger%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=i8JttH6DJxo) |
+| Deep Dive: Kubernetes SIG Multicluster - Irfan Ur Rehman, Huawei & Paul Morie, Red Hat | [Slides] | [Video](https://youtube.com/watch?v=Yh2z18nrdlY) |
+| K8s Conformance Working Session: Supporting Multiple Environments - Dan Kohn, CNCF | [Slides] | [Video](https://youtube.com/watch?v=dueJApGGAo0) |
+| Deep Dive: API Machinery SIG - Stefan Schimanski, Red Hat & Daniel Smith, Google | [Slides] | [Video](https://youtube.com/watch?v=kz8BMn9_hk8) |
+| Deep Dive: Apps SIG - Matt Farina, Samsung SDS & Adnan Abdulhussein, Bitnami | [Slides](https://schd.ws/hosted_files/kccna18/1f/SIG%20Apps%20Deep%20Dive.pdf) | [Video](https://youtube.com/watch?v=gJIUUsDP7ko) |
+| Deep Dive: Fluent Bit - Eduardo Silva & Masahiro Nakagawa, Treasure | [Slides] | [Video](https://youtube.com/watch?v=LEmGkKwpdOM) |
+| Data Deep Dive: Kubernetes Policy WG - Zhipeng Huang, Huawei | [Slides] | [Video](https://www.youtube.com/watch?v=SsRektcakls) |
+| Deep Dive: Open Policy Agent - Torin Sandall, Styra | [Slides](https://kccna18.sched.com/event/Grdg/deep-dive-open-policy-agent-torin-sandall-styra?iframe=yes&w=&sidebar=yes&bg=no) | [Video](https://youtube.com/watch?v=Vdy26oA3py8) |
+| Deep Dive: Rook - Travis Nielsen, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/b6/Rook%20Deep%20Dive.pdf) | [Video](https://youtube.com/watch?v=Mb7oiXQb1ZE) |
+| Deep Dive: Cluster Lifecycle SIG (Kubeadm) – Timothy St. Clair & Liz Frost, Heptio | [Slides](https://schd.ws/hosted_files/kccna18/cf/KubeCon_2018_NA-kubeadm-deep-dive.pdf) | [Video](https://youtube.com/watch?v=tAA0Hlag2n0) |
+| Deep Dive: CNI - Bryan Boreham, Weaveworks & Dan Williams, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/10/CNI%20Deep%20Dive.pdf) | [Video](https://youtube.com/watch?v=VCrTDqfxuJM) |
+| Deep Dive: Container Identity WG - Greg Castle & Michael Danese, Google | [Slides](https://schd.ws/hosted_files/kccna18/33/KubeCon_18_Container_Identity_WG_Deep_Dive.pdf) | [Video](https://youtube.com/watch?v=lEe6kDR_dHg) |
+| Deep Dive: IBMCloud SIG - Sahdev Zala & Richard Theis, IBM | [Slides](https://schd.ws/hosted_files/kccna18/ab/IBMCloudSIG-KubeConSeattle18-Sahdev-Richard-Deep.pdf) | [Video](https://youtube.com/watch?v=w20Vh-_H_SU) |
+| Deep Dive: Service Catalog SIG - Carolyn Van Slyck, Microsoft Azure & Jonathan Berkhahn, IBM | [Slides](https://schd.ws/hosted_files/kccna18/d2/SIG-ServiceCatalog%20Sessions%20-%20KubeCon%20NA.pdf) | [Video](https://youtube.com/watch?v=0zp0y8Mo_BE) |
+| Deep Dive: SPIFFE - Emiliano Bernbaum & Andrew Harding, Scytale | [Slides](https://schd.ws/hosted_files/kccna18/7d/Kubecon%202018.pdf) | [Video](https://www.youtube.com/watch?v=89-GvGs8JwU) |
+| Deep Dive: Autoscaling SIG - Solly Ross, Google & Michael Hausenblas, Red Hat | [Slides] | [Video](https://youtube.com/watch?v=xfPMva7h9f0) |
+| Deep Dive: Azure SIG – Khaled (Kal) Henidak , Microsoft & Stephen Augustus, Red Hat | [Slides] | [Video](https://youtube.com/watch?v=GebQpMcHdlg) |
+| Deep Dive: Cloud Native Buildpacks - Terence Lee & Joe Kutner, Salesforce Heroku | [Slides] | [Video](https://youtube.com/watch?v=KiDK5C0kzJs) |
+| Deep Dive: Cluster Lifecycle SIG (Cluster API) - Robert Bailey, Google & David E. Watson, Samsung | [Slides](https://schd.ws/hosted_files/kccna18/b0/Cluster%20API%20Deep%20Dive.pdf) | [Video](https://youtube.com/watch?v=LxENsOKq7UA) |
+| Deep Dive: Kubernetes IoT Edge WG – Cindy Xing, Huawei; Dejan Bosanac, Red Hat; Preston Holmes, Google; Steve Wong, VMware |[Slides](https://schd.ws/hosted_files/kccna18/ae/Deep%20Dive_%20IoT%20Edge%20Working%20Group.pdf) | [Video](https://www.youtube.com/watch?v=nWFkxuRvZ7U) |
+| Deep Dive: TUF - Justin Cappos, NYU & Trishank Kuppusamy, Datadog | [Slides](https://schd.ws/hosted_files/kccna18/12/Deep%20Dive_%20TUF%20%28Kubecon%20North%20America%202018%29.pdf) | [Video](https://www.youtube.com/watch?v=XAlvd4QXngs) |
+| Deep Dive: CoreDNS - Michael Grosser, Okkur Labs & John Belamaric, Google | [Slides](https://schd.ws/hosted_files/kccna18/a0/CoreDNS%20Deepdive.pdf) | [Video](https://youtube.com/watch?v=LIoC6aC--jQ) |
+| Deep Dive: Falco - Mark Stemm, Sysdig Deep Dive: Testing SIG - Cole Wagner & Katharine Berry, Google | [Slides](https://schd.ws/hosted_files/kccna18/cc/Falco-DeepDive-Kubecon.pdf) | [Video](https://youtube.com/watch?v=v9wYiGHwVrg) |
+| Deep Dive: Virtual Kubelet - Jeremy Rickard & Brian Goff, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/62/virtual-kubelet-deep-dive-slides.pdf) | [Video](https://youtube.com/watch?v=cuaWIpUNvNo) |
+| Deep Dive: VMware SIG – Michael Gasch & Steven Wong, VMware | [Slides](https://schd.ws/hosted_files/kccna18/9b/Kubernetes%20on%20vSphere%20Deep%20Dive%20KubeCon%20US%20VMware%20SIG.pdf) | [Video](https://youtube.com/watch?v=oP2LPhMAy2o) |
+| Deep Dive: Helm - Matt Butcher & Adam Reese, Microsoft | [Slides] | [Video](https://youtube.com/watch?v=V8VCdlpWWr8) |
+| Deep Dive: Big Data SIG - Erik Erlandson, Red Hat & Yinan Li, Google | [Slides](https://schd.ws/hosted_files/kccna18/c2/K8S-SIG-Big-Data-Deep-Dive.pdf) | [Video](https://youtube.com/watch?v=bQx4JlUO4o8) |
+| Deep Dive: Harbor - Tan Jiang & Jia Zou, VMware | [Slides](https://schd.ws/hosted_files/kccna18/79/deep-dive-en-seattle_uploaded.pptx) | [Video](https://youtube.com/watch?v=OKj1XxtsTCo) |
+| Deep Dive: Minikube - Bálint Pató & Thomas Strömberg, Google | [Slides] | [Video](https://youtube.com/watch?v=46-FXiSEfE4) |
+| Deep Dive: NATS - Colin Sullivan & Wally Quevedo, Synadia | [Slides](https://schd.ws/hosted_files/kccna18/bc/KubeCon_2018_NA_NATS_DEEP_DIVE.pdf) | [Video](https://youtube.com/watch?v=wBJj0UbcZuU) |
+| Deep Dive: Scheduling SIG - Bobby (Babak) Salamat, Google | [Slides](https://schd.ws/hosted_files/kccna18/7b/SIG%20Scheduling%20Deep%20Dive%2C%20KubeCon%202018.pdf) | [Video](https://youtube.com/watch?v=QAcAbKnHjOU) |
 
 ## Multi-Cluster 
 
@@ -360,24 +360,24 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Day Two Kubernetes: Tools for Operability - Bridget Kromhout & Zachary Deptawa, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=I82BIo84dsQ) |
-| Don’t Forget the Data When Embarking on Your Journey to Service Meshes - Shriram Rajagopalan, VMware | [Slides]() | [Video](https://youtube.com/watch?v=B134HppOtKk) | 
-| What's Next for etcd Cluster Management? - Gyuho Lee, Amazon Web Services & Sam Batschelet, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=5kAVOQ4APok) |
-| Debugging etcd - Joe Betz & Jingyi Hu, Google | [Slides]() | [Video](https://youtube.com/watch?v=NVMZBBQ9hsM) | 
-| Rightsize Your Pods with Vertical Pod Autoscaling - Beata Skiba, Google | [Slides]() | [Video](https://youtube.com/watch?v=Y4vnYaqhS74) |
-| A Basic Kubernetes Debugging Kit: curl, jq, openssl, and Other Best Friends - Joe Thompson, Mesosphere | [Slides]() | [Video](https://youtube.com/watch?v=QtXHkzLtqZE) | 
-| From Zero to Production with Kubernetes - Daniel Lopez Ridruejo & Gus Lees, Bitnami | [Slides]() | [Video](https://youtube.com/watch?v=srkw54xeU8Y) |
-| Weave & Chick-fil-A: Managing Fleets of Kubernetes Clusters w/ GitOPs - Sean Drucker, Chick-fil-A, Inc. & Alexis Richardson, Weaveworks | [Slides]() | [Video](https://youtube.com/watch?v=ta9jJc-RVvE) | 
-| Fine-Grained Cost Allocation in Multi-Tenant Kubernetes Clusters - Yang Guan, Google | [Slides]() | [Video](https://youtube.com/watch?v=cdeQyxKakEk) |
-| Day 2 with Stateful Applications - Implementing a Data Protection Strategy - Deepika Dixit & Vaibhav Kamra, Kasten | [Slides]() | [Video](https://www.youtube.com/watch?v=4PJ6fHMFbVU) | 
-| Bringing Kubernetes to Bare-metal with a Focus on Users - Nicolas Trangez, Scality | [Slides]() | [Video](https://www.youtube.com/watch?v=jgh8rUOr4Qs) |
-| Kubernetes Manages more than Just Containers - Ashley Schuett, Containership | [Slides]() | [Video](https://www.youtube.com/watch?v=SQNIDiimHnA) | 
-| Running VM Workloads Side by Side with Container Workloads - Sebastian Scheele, Loodse | [Slides]() | [Video](https://youtube.com/watch?v=VmZ_YaWZmBQ) |
-| Kubernetes Scalability: A Multi-Dimensional Analysis - Maciek Różacki, Google & Shyam Jeedigunta | [Slides]() | [Video](https://www.youtube.com/watch?v=t_Ww6ELKl4Q) | 
-| You Can't Have a Cluster [BLEEP] Without a Cluster - Kris Nova, Heptio | [Slides]() | [Video](https://youtube.com/watch?v=CLVIbCs2VJY) |
-| Fly Your Containerized Environments by Joint Work of Harbor and Dragonfly - Jia Zou, VMware & Allen Sun, Alibaba | [Slides]() | [Video](https://youtube.com/watch?v=kskWZsf_7oE) | 
-| Kubernetes the Database - Jonathan Owens & Maryum Styles, New Relic | [Slides]() | [Video](https://www.youtube.com/watch?v=eja7b3tahMg) |
-| Managing Addons with Operators (Or How We Dropped Untested bash/sed for Go) - Jeff Johnson & Justin Santa Barbara, Google | [Slides]() | [Video](https://www.youtube.com/watch?v=LPejvfBR5_w) | 
+| Day Two Kubernetes: Tools for Operability - Bridget Kromhout & Zachary Deptawa, Microsoft | [Slides] | [Video](https://youtube.com/watch?v=I82BIo84dsQ) |
+| Don’t Forget the Data When Embarking on Your Journey to Service Meshes - Shriram Rajagopalan, VMware | [Slides] | [Video](https://youtube.com/watch?v=B134HppOtKk) | 
+| What's Next for etcd Cluster Management? - Gyuho Lee, Amazon Web Services & Sam Batschelet, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/fb/20181211-etcd-kubecon-cluster-management.pdf) | [Video](https://youtube.com/watch?v=5kAVOQ4APok) |
+| Debugging etcd - Joe Betz & Jingyi Hu, Google | [Slides](https://schd.ws/hosted_files/kccna18/a5/Kubecon%20Seattle_%20Debugging%20etcd.pdf) | [Video](https://youtube.com/watch?v=NVMZBBQ9hsM) | 
+| Rightsize Your Pods with Vertical Pod Autoscaling - Beata Skiba, Google | [Slides](https://schd.ws/hosted_files/kccna18/1f/VPA%20Kubecon%20Seattle.pdf) | [Video](https://youtube.com/watch?v=Y4vnYaqhS74) |
+| A Basic Kubernetes Debugging Kit: curl, jq, openssl, and Other Best Friends - Joe Thompson, Mesosphere | [Slides](https://schd.ws/hosted_files/kccna18/d9/A%20Basic%20Kubernetes%20Debugging%20Kit%20-%20curl%2C%20jq%2C%20openssl%20and%20Other%20Best%20Friends.pdf) | [Video](https://youtube.com/watch?v=QtXHkzLtqZE) | 
+| From Zero to Production with Kubernetes - Daniel Lopez Ridruejo & Gus Lees, Bitnami | [Slides](https://schd.ws/hosted_files/kccna18/46/ZeroToProductionKubecon2018NA.pdf) | [Video](https://youtube.com/watch?v=srkw54xeU8Y) |
+| Weave & Chick-fil-A: Managing Fleets of Kubernetes Clusters w/ GitOPs - Sean Drucker, Chick-fil-A, Inc. & Alexis Richardson, Weaveworks | [Slides](https://schd.ws/hosted_files/kccna18/34/GitOps.pdf) | [Video](https://youtube.com/watch?v=ta9jJc-RVvE) | 
+| Fine-Grained Cost Allocation in Multi-Tenant Kubernetes Clusters - Yang Guan, Google | [Slides](https://schd.ws/hosted_files/kccna18/05/Fine-grained%20cost%20allocation%20in%20multi-tenant%20Kubernetes%20clusters.pdf) | [Video](https://youtube.com/watch?v=cdeQyxKakEk) |
+| Day 2 with Stateful Applications - Implementing a Data Protection Strategy - Deepika Dixit & Vaibhav Kamra, Kasten | [Slides](https://schd.ws/hosted_files/kccna18/71/KubeConNA_DataProtectionStrategy.pdf) | [Video](https://www.youtube.com/watch?v=4PJ6fHMFbVU) | 
+| Bringing Kubernetes to Bare-metal with a Focus on Users - Nicolas Trangez, Scality | [Slides](https://schd.ws/hosted_files/kccna18/67/MetalK8s%20-%20Kubecon%202018%2C%20Seattle.pdf) | [Video](https://www.youtube.com/watch?v=jgh8rUOr4Qs) |
+| Kubernetes Manages more than Just Containers - Ashley Schuett, Containership | [Slides](https://schd.ws/hosted_files/kccna18/97/Kubecon%202018%20-%20CCM-2.pdf) | [Video](https://www.youtube.com/watch?v=SQNIDiimHnA) | 
+| Running VM Workloads Side by Side with Container Workloads - Sebastian Scheele, Loodse | [Slides](https://schd.ws/hosted_files/kccna18/50/KubeCon_2018_Running%20VM%20Workloads%20Side%20by%20Side%20with%20Container%20Workloads.pdf) | [Video](https://youtube.com/watch?v=VmZ_YaWZmBQ) |
+| Kubernetes Scalability: A Multi-Dimensional Analysis - Maciek Różacki, Google & Shyam Jeedigunta | [Slides](https://schd.ws/hosted_files/kccna18/92/Kubernetes%20Scalability_%20A%20multi-dimensional%20analysis.pdf) | [Video](https://www.youtube.com/watch?v=t_Ww6ELKl4Q) | 
+| You Can't Have a Cluster [BLEEP] Without a Cluster - Kris Nova, Heptio | [Slides](https://schd.ws/hosted_files/kccna18/ff/You%20Can%27t%20Have%20A%20Cluster%5BBLEEP%5D%20without%20a%20cluster%20-%20KubeCon%202018.pptx) | [Video](https://youtube.com/watch?v=CLVIbCs2VJY) |
+| Fly Your Containerized Environments by Joint Work of Harbor and Dragonfly - Jia Zou, VMware & Allen Sun, Alibaba | [Slides](https://schd.ws/hosted_files/kccna18/c7/%20Fly_Your_Containerized_env_uploaded.pptx) | [Video](https://youtube.com/watch?v=kskWZsf_7oE) | 
+| Kubernetes the Database - Jonathan Owens & Maryum Styles, New Relic | [Slides](https://schd.ws/hosted_files/kccna18/b4/KubeCon%202018%20-%20Kubernetes%20The%20Database.pdf) | [Video](https://www.youtube.com/watch?v=eja7b3tahMg) |
+| Managing Addons with Operators (Or How We Dropped Untested bash/sed for Go) - Jeff Johnson & Justin Santa Barbara, Google | [Slides] | [Video](https://www.youtube.com/watch?v=LPejvfBR5_w) | 
 
 ##   Performance
 
@@ -411,20 +411,20 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| How Symlinks Pwned Kubernetes (And How We Fixed It) - Michelle Au, Google & Jan Šafránek, Red Hat | [Slides]() | [Video](https://youtube.com/watch?v=o8hQ4WFd75U) | 
-| Securing Kubernetes With Admission Controllers - Dave Strebel, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=n_lyUtloc1o) | 
-| Recent Advancements in Container Isolation - Tim Allclair & Adin Scannell, Google | [Slides]() | [Video](https://youtube.com/watch?v=E_jn2UiSWww) | 
-| Hardening Kubernetes Setups: War Stories from the Trenches of Production - Puja Abbassi, Giant Swarm | [Slides]() | [Video](https://youtube.com/watch?v=MTHj0_NdeeM) | 
-| Athenz with Istio: Single Access Control Model in Cloud Infrastructures - Tatsuya Yano, Yahoo Japan Corporation | [Slides]() | [Video](https://youtube.com/watch?v=jhutgE6NwsM) | 
-| This Year, It’s About Security - Maya Kaczorowski & Brandon Baker, Google | [Slides]() | [Video](https://youtube.com/watch?v=a03te8xEjUg) | 
-| Friends Don’t Let Friends Leave Their Kubernetes Data Unprotected - Rita Zhang, Microsoft | [Slides]() | [Video](https://youtube.com/watch?v=fkCbq_MhLxo) | 
-| So You Want to Run Vault in Kubernetes? - Seth Vargo, Google | [Slides]() | [Video](https://youtube.com/watch?v=6P26wg2rWgo) | 
-| How We Survived Our First PCI/HIPAA Compliant Check with Kubernetes - Travis Jeppson, Nav | [Slides]() | [Video](https://youtube.com/watch?v=-ewKW27VIOE) | 
-| Scrutinizing SPIRE to Sensibly Strengthen SPIFFE Security - Matt Moyer, Heptio & Evan Gilman, Scytale | [Slides]() | [Video](https://youtube.com/watch?v=-yGWh_YTUkw) | 
+| How Symlinks Pwned Kubernetes (And How We Fixed It) - Michelle Au, Google & Jan Šafránek, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/5f/KubeCon_2018_NA-Subpath.pdf) | [Video](https://youtube.com/watch?v=o8hQ4WFd75U) | 
+| Securing Kubernetes With Admission Controllers - Dave Strebel, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/c5/KubeCon_2018_NA_ppt-1.pdf) | [Video](https://youtube.com/watch?v=n_lyUtloc1o) | 
+| Recent Advancements in Container Isolation - Tim Allclair & Adin Scannell, Google | [Slides](https://schd.ws/hosted_files/kccna18/01/Kubecon%20Seattle%20-%20Container%20Isolation.pdf) | [Video](https://youtube.com/watch?v=E_jn2UiSWww) | 
+| Hardening Kubernetes Setups: War Stories from the Trenches of Production - Puja Abbassi, Giant Swarm | [Slides](https://schd.ws/hosted_files/kccna18/7a/Postmortems%20Help%20Hardening%20Kubernetes%20-%20KubeCon%20NA%202018%20Seattle%20-%20Puja.pdf) | [Video](https://youtube.com/watch?v=MTHj0_NdeeM) | 
+| Athenz with Istio: Single Access Control Model in Cloud Infrastructures - Tatsuya Yano, Yahoo Japan Corporation | [Slides](https://schd.ws/hosted_files/kccna18/cb/Athenz%20with%20Istio%20-%20Single%20Access%20Control%20Model%20in%20Cloud%20Infrastructures.pdf) | [Video](https://youtube.com/watch?v=jhutgE6NwsM) | 
+| This Year, It’s About Security - Maya Kaczorowski & Brandon Baker, Google | [Slides](https://schd.ws/hosted_files/kccna18/1c/KubeCon%20NA%20-%20This%20year%2C%20it%27s%20about%20security%20-%2020181211.pdf) | [Video](https://youtube.com/watch?v=a03te8xEjUg) | 
+| Friends Don’t Let Friends Leave Their Kubernetes Data Unprotected - Rita Zhang, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/9d/KubeCon_2018_NA-k8s-secure.pdf) | [Video](https://youtube.com/watch?v=fkCbq_MhLxo) | 
+| So You Want to Run Vault in Kubernetes? - Seth Vargo, Google | [Slides] | [Video](https://youtube.com/watch?v=6P26wg2rWgo) | 
+| How We Survived Our First PCI/HIPAA Compliant Check with Kubernetes - Travis Jeppson, Nav | [Slides](https://schd.ws/hosted_files/kccna18/c8/Compliant%20with%20Kubernetes.pdf) | [Video](https://youtube.com/watch?v=-ewKW27VIOE) | 
+| Scrutinizing SPIRE to Sensibly Strengthen SPIFFE Security - Matt Moyer, Heptio & Evan Gilman, Scytale | [Slides](https://schd.ws/hosted_files/kccna18/c3/Scrutinizing%20SPIRE%20to%20Sensibly%20Strengthen%20SPIFFE%20Security.pdf) | [Video](https://youtube.com/watch?v=-yGWh_YTUkw) | 
 | Navigating Workload Identity in Kubernetes - Michael Danese, Google & Spike Curtis, Tigera
-  | [Slides]() | [Video](https://youtube.com/watch?v=7N1PFdCEFE8) | 
-| Single Sign-On for Kubernetes - Joel Speed, Pusher | [Slides]() | [Video](https://youtube.com/watch?v=yaJnT6DNHHc) | 
-| Shopify’s $25k Bug Report, and the Cluster Takeover That Didn’t Happen - Greg Castle, Google & Shane Lawrence, Shopify | [Slides]() | [Video](https://www.youtube.com/watch?v=2XCm7vveU5A)|
+  | [Slides](https://schd.ws/hosted_files/kccna18/91/submitted.pdf) | [Video](https://youtube.com/watch?v=7N1PFdCEFE8) | 
+| Single Sign-On for Kubernetes - Joel Speed, Pusher | [Slides](https://schd.ws/hosted_files/kccna18/01/SSO%20For%20Kubernetes.pdf) | [Video](https://youtube.com/watch?v=yaJnT6DNHHc) | 
+| Shopify’s $25k Bug Report, and the Cluster Takeover That Didn’t Happen - Greg Castle, Google & Shane Lawrence, Shopify | [Slides](https://schd.ws/hosted_files/kccna18/7c/Shopify_25k_bug_report_castle_lawrence_kubecon18.pdf) | [Video](https://www.youtube.com/watch?v=2XCm7vveU5A)|
  
  
 ##   Serverless
