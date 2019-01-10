@@ -274,7 +274,7 @@
 | K8s Conformance Working Session: Supporting Multiple Environments - Dan Kohn, CNCF | [Slides] | [Video](https://youtube.com/watch?v=dueJApGGAo0) |
 | Deep Dive: API Machinery SIG - Stefan Schimanski, Red Hat & Daniel Smith, Google | [Slides] | [Video](https://youtube.com/watch?v=kz8BMn9_hk8) |
 | Deep Dive: Apps SIG - Matt Farina, Samsung SDS & Adnan Abdulhussein, Bitnami | [Slides](https://schd.ws/hosted_files/kccna18/1f/SIG%20Apps%20Deep%20Dive.pdf) | [Video](https://youtube.com/watch?v=gJIUUsDP7ko) |
-| Deep Dive: Fluent Bit - Eduardo Silva & Masahiro Nakagawa, Treasure | [Slides] | [Video](https://youtube.com/watch?v=LEmGkKwpdOM) |
+| Deep Dive: Fluent Bit - Eduardo Silva & Masahiro Nakagawa, Treasure | [Slides] | [Video](https://youtube.com/watch?v=OB-IKl_PbzU) |
 | Data Deep Dive: Kubernetes Policy WG - Zhipeng Huang, Huawei | [Slides] | [Video](https://www.youtube.com/watch?v=SsRektcakls) |
 | Deep Dive: Open Policy Agent - Torin Sandall, Styra | [Slides](https://kccna18.sched.com/event/Grdg/deep-dive-open-policy-agent-torin-sandall-styra?iframe=yes&w=&sidebar=yes&bg=no) | [Video](https://youtube.com/watch?v=Vdy26oA3py8) |
 | Deep Dive: Rook - Travis Nielsen, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/b6/Rook%20Deep%20Dive.pdf) | [Video](https://youtube.com/watch?v=Mb7oiXQb1ZE) |
